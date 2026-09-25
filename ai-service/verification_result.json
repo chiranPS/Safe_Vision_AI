@@ -1,0 +1,62 @@
+{
+  "complainant": {
+    "name": "Dilantha Perera",
+    "nic": "198765432109",
+    "dob": "03/11/1995",
+    "gender": "Male",
+    "phone": "0712345678",
+    "address": "yy, 42 7/2 Wijerama Mawatha, Nugegoda",
+    "occupation": "Private Employee",
+    "employerAddress": null,
+    "email": "antinay_dilantha.p95@gmail.com"
+  },
+  "complaint": {
+    "referenceNumber": "SLP-2026-052189",
+    "formDate": "74/05/2026",
+    "formTime": null,
+    "policeStation": "Nugegoda Police Station",
+    "description": "\u2014 COMPLAINT DESCRIPTION I] While I was walking on Nawala Road [ 2 man on a black motorcycle came from behind. [ and snatched my shoulder bag and fled. SSE Anas. The bag had my wallet, mobile phone and some documents [ Z shouted for help but he was gone. [ IZ checked around but could not find him. There were not many people at that time. [ Please take action and help me recover my belongings",
+    "date": "74/05/2026",
+    "time": null,
+    "location": "Nawala Road, Mugegoda (Near Newala Sanction) ee Poel Seren",
+    "personsInvolved": "One unknown male riding motoreyele. a",
+    "suspectedIndividuals": "Not aware",
+    "vehicleDetails": "Black motorcycle, no number plate",
+    "filename": "form-test-10.png",
+    "hasPhotos": true,
+    "hasMedicalReport": false,
+    "hasCctv": false,
+    "hasWitnessStatement": false,
+    "hasAudioRecording": true,
+    "hasOtherEvidence": false,
+    "evidenceNotes": ": Medical Report Audio Recording There is a shop CCTV CCTV Footage Other near the Junction 4",
+    "receivingOfficerName": "SZ W. Kumarasinghe",
+    "badgeNumber": "88765",
+    "rank": "Sub Inspector",
+    "branch": "Traffic",
+    "assignedStation": "Nugegoda",
+    "signaturePresent": false,
+    "dateReceived": "7/5 /",
+    "manualNotes": null,
+    "isTheft": true,
+    "isAssault": false,
+    "isNarcotics": false,
+    "isTraffic": false,
+    "isDomesticViolence": false,
+    "isChildAbuse": false,
+    "isSuspiciousActivity": false,
+    "isOtherCategory": false,
+    "complaintCategory": "Theft"
+  },
+  "category": "Theft",
+  "riskScore": 0.1742,
+  "urgencyLevel": "Low",
+  "alerts": [
+    {
+      "alertType": "PATTERN DETECTED",
+      "message": "Criminal pattern detected at this location (5 incidents in 30 days).",
+      "severity": "HIGH"
+    }
+  ],
+  "ocr_confidence": 0.85
+}

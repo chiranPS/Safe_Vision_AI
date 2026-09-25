@@ -1,0 +1,62 @@
+{
+  "complainant": {
+    "name": "M.S. Madhushanka",
+    "nic": "950034765 V",
+    "dob": "19/03/1995",
+    "gender": "Male",
+    "phone": null,
+    "address": "18/4, jst Lane",
+    "occupation": "Technician Kotta Road",
+    "employerAddress": null,
+    "email": "madhus95@gmail.com"
+  },
+  "complaint": {
+    "referenceNumber": null,
+    "formDate": "12/05/2026",
+    "formTime": null,
+    "policeStation": "Se",
+    "description": "\u2014 COMPLAINT DESCRIPTION [i] Yesterday night around //.30 pm, ZL was walking home [ along bole Roti uefled: rh Ol dP eee [ _Sudaent. a motorcycle came behind me. Bemis. Ce [ The pillien ete elie img lla ma ae) Pool z a) ee Ee Be TAR Vi fe Vo ote, [ _ They sped awa towards _Nugegodla Junction fat ae ae (1 _Z fell down ut did not get _Sertously injured z = [ Kindly help me to find them",
+    "date": "12/05/2026",
+    "time": null,
+    "location": "Kotta Road, Nugegoda. near petrol Shed) ee Cargills Food City",
+    "personsInvolved": ": Sus",
+    "suspectedIndividuals": ": Wea",
+    "vehicleDetails": "Veh",
+    "filename": "test_complaint.png",
+    "hasPhotos": true,
+    "hasMedicalReport": false,
+    "hasCctv": true,
+    "hasWitnessStatement": false,
+    "hasAudioRecording": true,
+    "hasOtherEvidence": false,
+    "evidenceNotes": ": Medical Report Audio Recording There 1s CCTV on the CCTV Footage Other petrol shed and Shops",
+    "receivingOfficerName": "Re D. Woman",
+    "badgeNumber": null,
+    "rank": "Police Constable Traffic",
+    "branch": "Assigned Station",
+    "assignedStation": "Officer Signature",
+    "signaturePresent": false,
+    "dateReceived": null,
+    "manualNotes": null,
+    "isTheft": true,
+    "isAssault": false,
+    "isNarcotics": false,
+    "isTraffic": false,
+    "isDomesticViolence": false,
+    "isChildAbuse": false,
+    "isSuspiciousActivity": false,
+    "isOtherCategory": false,
+    "complaintCategory": "Theft"
+  },
+  "category": "Theft",
+  "riskScore": 0.1742,
+  "urgencyLevel": "Low",
+  "alerts": [
+    {
+      "alertType": "PATTERN DETECTED",
+      "message": "Criminal pattern detected at this location (5 incidents in 30 days).",
+      "severity": "HIGH"
+    }
+  ],
+  "ocr_confidence": 0.85
+}
