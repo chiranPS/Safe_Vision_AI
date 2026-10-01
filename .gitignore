@@ -48,3 +48,12 @@ build/
 *.sln
 *.sw?
 
+# AI / ML model files
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# Specific trained model directory
+ai-service/app/models/layoutlm_police_ocr/
