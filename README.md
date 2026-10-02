@@ -1,4 +1,4 @@
-# Police-Compliant Management System
+# AI-Powered Police-Compliant Analysis & Management System
 
 This project is a comprehensive system designed for Police Complaint Management. It integrates modern web technologies and artificial intelligence to streamline and automate complaint processing.
 
