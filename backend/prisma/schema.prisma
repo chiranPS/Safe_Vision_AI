@@ -1,0 +1,115 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Get a free hosted Postgres database in seconds: `npx create-db`
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id              String   @id @default(uuid())
+  email           String   @unique
+  passwordHash    String
+  name            String?
+  rank            String?
+  branch          String?
+  phoneNumber     String?
+  assignedStation String?
+  profilePicture  String?
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
+
+model Complainant {
+  id              String      @id @default(uuid())
+  fullName        String
+  nicNumber       String      @unique
+  phone           String
+  address         String
+  dateOfBirth     String?
+  gender          String?
+  occupation      String?
+  employerAddress String?
+  email           String?
+  createdAt       DateTime    @default(now())
+  complaints      Complaint[]
+}
+
+model Officer {
+  id              String      @id @default(uuid())
+  fullName        String
+  badgeNumber     String      @unique
+  rank            String
+  branch          String
+  assignedStation String
+  phone           String
+  status          String      @default("Active") // Active, On Leave, Suspended
+  createdAt       DateTime    @default(now())
+  assignments     ComplaintAssignment[]
+}
+
+model Complaint {
+  id                String   @id @default(uuid())
+  referenceNumber   String?
+  title             String
+  description       String
+  category          String
+  priority          String
+  status            String
+  location          String
+  latitude          Float
+  longitude         Float
+  dateOfIncident    DateTime
+  timeOfIncident    String?
+  personsInvolved   String?
+  suspectedIndividuals String?
+  vehicleDetails    String?
+  
+  // Evidence
+  hasPhotos           Boolean  @default(false)
+  hasMedicalReport    Boolean  @default(false)
+  hasCctv             Boolean  @default(false)
+  hasWitnessStatement Boolean  @default(false)
+  hasAudioRecording   Boolean  @default(false)
+  hasOtherEvidence    Boolean  @default(false)
+  evidenceNotes       String?
+
+  // Officer Use Only
+  receivingOfficerName   String?
+  receivingOfficerBadge  String?
+  receivingOfficerRank   String?
+  receivingOfficerBranch String?
+  assignedStation        String?
+  officerSignature       String?
+  dateReceived           DateTime?
+  manualNotes            String?
+
+  createdAt       DateTime @default(now())
+  riskScore       Float
+  keywords        String[]
+  isHotspot       Boolean  @default(false)
+
+  // Relations
+  complainantId   String
+  complainant     Complainant @relation(fields: [complainantId], references: [id])
+  assignments     ComplaintAssignment[]
+}
+
+model ComplaintAssignment {
+  id            String   @id @default(uuid())
+  complaintId   String
+  complaint     Complaint @relation(fields: [complaintId], references: [id], onDelete: Cascade)
+  officerId     String
+  officer       Officer   @relation(fields: [officerId], references: [id])
+  role          String   // Lead Officer, Supporting Officer
+  status        String   @default("Assigned") // Assigned, In Progress, Completed
+  assignedAt    DateTime @default(now())
+
+  @@unique([complaintId, officerId]) // Prevent assigning the same officer to the same complaint twice
+}

@@ -1,0 +1,5952 @@
+[
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Suspect broke into a parked vehicle and stole a laptop bag.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.947053390698543,
+    "longitude": 79.87413051520262,
+    "dateOfIncident": "2026-04-27T00:04:36.035Z",
+    "createdAt": "2026-04-28T05:04:36.035Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.6827220090195465,
+    "keywords": [
+      "suspect",
+      "parked",
+      "vehicle"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.95015587262373,
+    "longitude": 79.87112750010226,
+    "dateOfIncident": "2026-04-22T17:34:52.401Z",
+    "createdAt": "2026-04-24T16:34:52.401Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.470412129051845,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Individuals loitering near the ATM late at night.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.948816309140929,
+    "longitude": 79.8694556468885,
+    "dateOfIncident": "2026-05-05T22:59:37.277Z",
+    "createdAt": "2026-05-07T20:59:37.277Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.46659779201848345,
+    "keywords": [
+      "individuals",
+      "loitering",
+      "night."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Bambalapitiya",
+    "description": "Suspicious individuals exchanging small packages in an alley.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Bambalapitiya",
+    "latitude": 6.896522383905136,
+    "longitude": 79.85680268733262,
+    "dateOfIncident": "2026-05-03T21:10:05.223Z",
+    "createdAt": "2026-05-05T15:10:05.223Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.4572116714939826,
+    "keywords": [
+      "suspicious",
+      "individuals",
+      "exchanging"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Pettah",
+    "description": "Large scale transport of illegal substances intercepted.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Pettah",
+    "latitude": 6.940020472169533,
+    "longitude": 79.85035430955692,
+    "dateOfIncident": "2026-04-28T13:06:30.785Z",
+    "createdAt": "2026-04-28T17:06:30.785Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.7617670059550201,
+    "keywords": [
+      "transport",
+      "illegal",
+      "substances"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Maradana",
+    "description": "Raid conducted based on tip-off. Found suspected heroin packets.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Maradana",
+    "latitude": 6.925206691916589,
+    "longitude": 79.8571665180185,
+    "dateOfIncident": "2026-04-12T03:41:02.296Z",
+    "createdAt": "2026-04-12T15:41:02.296Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.35808646149298634,
+    "keywords": [
+      "conducted",
+      "tip-off.",
+      "suspected"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Raid conducted based on tip-off. Found suspected heroin packets.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.946372534441578,
+    "longitude": 79.8661284187207,
+    "dateOfIncident": "2026-04-13T04:36:53.162Z",
+    "createdAt": "2026-04-14T17:36:53.162Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.99,
+    "keywords": [
+      "conducted",
+      "tip-off.",
+      "suspected"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Bambalapitiya",
+    "description": "Ongoing dispute between spouses requiring police intervention.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Bambalapitiya",
+    "latitude": 6.894466633403491,
+    "longitude": 79.85929943179345,
+    "dateOfIncident": "2026-04-30T05:07:11.804Z",
+    "createdAt": "2026-05-01T01:07:11.804Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.8476255148966867,
+    "keywords": [
+      "ongoing",
+      "dispute",
+      "between"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Domestic Violence reported at Wellawatte",
+    "description": "Victim came to the station with visible bruises.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Wellawatte",
+    "latitude": 6.876753713896698,
+    "longitude": 79.8613547108635,
+    "dateOfIncident": "2026-04-09T03:12:22.400Z",
+    "createdAt": "2026-04-09T15:12:22.400Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.5075756973346288,
+    "keywords": [
+      "victim",
+      "station",
+      "visible"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Moratuwa",
+    "description": "Victim assaulted with a blunt object. Sustained head injuries.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Moratuwa",
+    "latitude": 6.777225687754506,
+    "longitude": 79.8832476567368,
+    "dateOfIncident": "2026-05-01T21:29:49.611Z",
+    "createdAt": "2026-05-02T07:29:49.611Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.6764328728418183,
+    "keywords": [
+      "victim",
+      "assaulted",
+      "object."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Domestic Violence reported at Pettah",
+    "description": "Victim came to the station with visible bruises.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Pettah",
+    "latitude": 6.9435420503151075,
+    "longitude": 79.85225671287729,
+    "dateOfIncident": "2026-04-19T14:25:30.043Z",
+    "createdAt": "2026-04-21T02:25:30.043Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.8669504432789497,
+    "keywords": [
+      "victim",
+      "station",
+      "visible"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Unattended bag left at the bus terminal.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.947321496085416,
+    "longitude": 79.87082994870238,
+    "dateOfIncident": "2026-04-12T13:14:51.699Z",
+    "createdAt": "2026-04-14T13:14:51.699Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.4971048842747217,
+    "keywords": [
+      "unattended",
+      "terminal."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Pettah",
+    "description": "Burglary at a local shop during the night. Cash register emptied.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Pending",
+    "location": "Pettah",
+    "latitude": 6.941780469594549,
+    "longitude": 79.84906317588234,
+    "dateOfIncident": "2026-04-18T00:32:54.689Z",
+    "createdAt": "2026-04-18T07:32:54.689Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.635917478709793,
+    "keywords": [
+      "burglary",
+      "during",
+      "night."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Victim came to the station with visible bruises.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.949307256718708,
+    "longitude": 79.87007416514267,
+    "dateOfIncident": "2026-04-28T08:33:36.259Z",
+    "createdAt": "2026-04-30T08:33:36.259Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.5335582728993977,
+    "keywords": [
+      "victim",
+      "station",
+      "visible"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Dehiwala",
+    "description": "Severe traffic collision at the main intersection. Two injured.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Dehiwala",
+    "latitude": 6.843805979690485,
+    "longitude": 79.8654979904712,
+    "dateOfIncident": "2026-04-21T17:19:09.894Z",
+    "createdAt": "2026-04-23T12:19:09.894Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.49595831200718754,
+    "keywords": [
+      "severe",
+      "traffic",
+      "collision"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Reporting theft of a mobile phone near the bus stand.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.943089515675199,
+    "longitude": 79.87390942081218,
+    "dateOfIncident": "2026-04-28T00:01:10.521Z",
+    "createdAt": "2026-04-28T01:01:10.521Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.3735525730539408,
+    "keywords": [
+      "reporting",
+      "mobile",
+      "stand."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Grandpass",
+    "description": "Hit and run incident involving a motorcycle and a pedestrian.",
+    "category": "Traffic",
+    "priority": "Medium",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.946307044067288,
+    "longitude": 79.86649789140878,
+    "dateOfIncident": "2026-04-16T06:47:21.669Z",
+    "createdAt": "2026-04-16T23:47:21.669Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.6670177297813402,
+    "keywords": [
+      "incident",
+      "involving",
+      "motorcycle"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Bambalapitiya",
+    "description": "Suspicious individuals exchanging small packages in an alley.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Bambalapitiya",
+    "latitude": 6.888828311013364,
+    "longitude": 79.85684569312413,
+    "dateOfIncident": "2026-04-29T21:08:47.384Z",
+    "createdAt": "2026-04-30T17:08:47.384Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.48965692536679384,
+    "keywords": [
+      "suspicious",
+      "individuals",
+      "exchanging"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Traffic reported at Moratuwa",
+    "description": "Hit and run incident involving a motorcycle and a pedestrian.",
+    "category": "Traffic",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Moratuwa",
+    "latitude": 6.768391585580712,
+    "longitude": 79.87953875653241,
+    "dateOfIncident": "2026-04-28T21:38:25.004Z",
+    "createdAt": "2026-04-28T22:38:25.004Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.07806968121436919,
+    "keywords": [
+      "incident",
+      "involving",
+      "motorcycle"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Pettah",
+    "description": "Group fight reported near the junction.",
+    "category": "Assault",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Pettah",
+    "latitude": 6.940302004281094,
+    "longitude": 79.85401499654112,
+    "dateOfIncident": "2026-04-23T20:13:01.503Z",
+    "createdAt": "2026-04-24T08:13:01.503Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.6029642582797847,
+    "keywords": [
+      "reported",
+      "junction."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Restraining order violation reported.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.943807410356267,
+    "longitude": 79.87487806891154,
+    "dateOfIncident": "2026-04-23T23:25:22.359Z",
+    "createdAt": "2026-04-24T02:25:22.359Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.7252731256673719,
+    "keywords": [
+      "restraining",
+      "violation",
+      "reported."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Suspect broke into a parked vehicle and stole a laptop bag.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.948289476809043,
+    "longitude": 79.87311934305257,
+    "dateOfIncident": "2026-04-23T07:09:54.379Z",
+    "createdAt": "2026-04-23T09:09:54.379Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.4670962714922093,
+    "keywords": [
+      "suspect",
+      "parked",
+      "vehicle"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Dehiwala",
+    "description": "Severe traffic collision at the main intersection. Two injured.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Dehiwala",
+    "latitude": 6.842348458573366,
+    "longitude": 79.86760331073323,
+    "dateOfIncident": "2026-04-23T15:21:20.980Z",
+    "createdAt": "2026-04-24T01:21:20.980Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.04689056718316875,
+    "keywords": [
+      "severe",
+      "traffic",
+      "collision"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Traffic reported at Dehiwala",
+    "description": "Vehicle parked illegally blocking the main road.",
+    "category": "Traffic",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Dehiwala",
+    "latitude": 6.843230762340188,
+    "longitude": 79.874488014723,
+    "dateOfIncident": "2026-04-21T04:06:07.682Z",
+    "createdAt": "2026-04-21T05:06:07.682Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.23585738804249867,
+    "keywords": [
+      "vehicle",
+      "parked",
+      "illegally"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Bambalapitiya",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Bambalapitiya",
+    "latitude": 6.890628520024275,
+    "longitude": 79.85253316930915,
+    "dateOfIncident": "2026-04-28T09:29:10.460Z",
+    "createdAt": "2026-04-30T05:29:10.460Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.4019918970137074,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Suspect broke into a parked vehicle and stole a laptop bag.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.945338420941145,
+    "longitude": 79.86674506032287,
+    "dateOfIncident": "2026-05-04T06:53:35.932Z",
+    "createdAt": "2026-05-05T04:53:35.932Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.533814755379731,
+    "keywords": [
+      "suspect",
+      "parked",
+      "vehicle"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Suspect broke into a parked vehicle and stole a laptop bag.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.945430833739682,
+    "longitude": 79.87366037076556,
+    "dateOfIncident": "2026-04-14T17:31:00.790Z",
+    "createdAt": "2026-04-15T14:31:00.790Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.4810482980242225,
+    "keywords": [
+      "suspect",
+      "parked",
+      "vehicle"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Restraining order violation reported.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.943514416956382,
+    "longitude": 79.87380801856975,
+    "dateOfIncident": "2026-05-03T02:11:54.890Z",
+    "createdAt": "2026-05-03T09:11:54.890Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.912780548267246,
+    "keywords": [
+      "restraining",
+      "violation",
+      "reported."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Moratuwa",
+    "description": "Suspect broke into a parked vehicle and stole a laptop bag.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Moratuwa",
+    "latitude": 6.773449940935461,
+    "longitude": 79.87661832893805,
+    "dateOfIncident": "2026-04-14T00:59:35.351Z",
+    "createdAt": "2026-04-14T18:59:35.351Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.3694228033713416,
+    "keywords": [
+      "suspect",
+      "parked",
+      "vehicle"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Traffic reported at Grandpass",
+    "description": "Severe traffic collision at the main intersection. Two injured.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.948450828891399,
+    "longitude": 79.87416475407079,
+    "dateOfIncident": "2026-04-13T18:26:26.653Z",
+    "createdAt": "2026-04-15T03:26:26.653Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.5486967657726707,
+    "keywords": [
+      "severe",
+      "traffic",
+      "collision"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Pettah",
+    "description": "Reporting theft of a mobile phone near the bus stand.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Pending",
+    "location": "Pettah",
+    "latitude": 6.935427516104816,
+    "longitude": 79.85004735999806,
+    "dateOfIncident": "2026-04-13T14:12:18.367Z",
+    "createdAt": "2026-04-15T14:12:18.367Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.3602688173432019,
+    "keywords": [
+      "reporting",
+      "mobile",
+      "stand."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Reporting theft of a mobile phone near the bus stand.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.942177070683713,
+    "longitude": 79.86658378806077,
+    "dateOfIncident": "2026-04-28T08:07:49.781Z",
+    "createdAt": "2026-04-30T00:07:49.781Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.6133944555878439,
+    "keywords": [
+      "reporting",
+      "mobile",
+      "stand."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Individuals loitering near the ATM late at night.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.944821479917625,
+    "longitude": 79.87266615628707,
+    "dateOfIncident": "2026-04-16T00:45:28.544Z",
+    "createdAt": "2026-04-17T23:45:28.544Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.4067762351181737,
+    "keywords": [
+      "individuals",
+      "loitering",
+      "night."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Moratuwa",
+    "description": "Individuals loitering near the ATM late at night.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Moratuwa",
+    "latitude": 6.770595740146269,
+    "longitude": 79.88186013754915,
+    "dateOfIncident": "2026-04-29T01:50:20.629Z",
+    "createdAt": "2026-04-30T10:50:20.629Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.0317256535574133,
+    "keywords": [
+      "individuals",
+      "loitering",
+      "night."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Raid conducted based on tip-off. Found suspected heroin packets.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.94286193651616,
+    "longitude": 79.87408381705849,
+    "dateOfIncident": "2026-04-06T08:55:17.899Z",
+    "createdAt": "2026-04-07T21:55:17.899Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.7589710536203815,
+    "keywords": [
+      "conducted",
+      "tip-off.",
+      "suspected"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Victim came to the station with visible bruises.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.943953723571803,
+    "longitude": 79.86985093537368,
+    "dateOfIncident": "2026-04-19T13:18:44.918Z",
+    "createdAt": "2026-04-21T08:18:44.918Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.99,
+    "keywords": [
+      "victim",
+      "station",
+      "visible"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Pettah",
+    "description": "Individual apprehended with marijuana near the school zone.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Pettah",
+    "latitude": 6.935678876102038,
+    "longitude": 79.85051975638069,
+    "dateOfIncident": "2026-04-21T16:16:06.196Z",
+    "createdAt": "2026-04-22T13:16:06.196Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.8316732734820236,
+    "keywords": [
+      "individual",
+      "apprehended",
+      "marijuana"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Bambalapitiya",
+    "description": "Victim came to the station with visible bruises.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Bambalapitiya",
+    "latitude": 6.887790452249902,
+    "longitude": 79.85544158350737,
+    "dateOfIncident": "2026-05-06T05:36:49.929Z",
+    "createdAt": "2026-05-07T07:36:49.929Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.6604888120020589,
+    "keywords": [
+      "victim",
+      "station",
+      "visible"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Maradana",
+    "description": "Domestic dispute escalated into physical violence.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Maradana",
+    "latitude": 6.93115710786541,
+    "longitude": 79.8632789582105,
+    "dateOfIncident": "2026-04-16T17:31:49.699Z",
+    "createdAt": "2026-04-18T09:31:49.699Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.5634285294178563,
+    "keywords": [
+      "domestic",
+      "dispute",
+      "escalated"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Individuals loitering near the ATM late at night.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.940940875155985,
+    "longitude": 79.86879282127299,
+    "dateOfIncident": "2026-04-17T02:12:01.928Z",
+    "createdAt": "2026-04-17T06:12:01.928Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.6152749996900357,
+    "keywords": [
+      "individuals",
+      "loitering",
+      "night."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Moratuwa",
+    "description": "Severe traffic collision at the main intersection. Two injured.",
+    "category": "Traffic",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Moratuwa",
+    "latitude": 6.768429899949296,
+    "longitude": 79.88077235565717,
+    "dateOfIncident": "2026-04-20T12:58:37.551Z",
+    "createdAt": "2026-04-21T23:58:37.551Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.38929411476437303,
+    "keywords": [
+      "severe",
+      "traffic",
+      "collision"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Bambalapitiya",
+    "description": "Physical altercation between two individuals outside a pub.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Bambalapitiya",
+    "latitude": 6.897159429833749,
+    "longitude": 79.85400223216013,
+    "dateOfIncident": "2026-04-12T20:22:16.308Z",
+    "createdAt": "2026-04-13T10:22:16.308Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.6142691809060179,
+    "keywords": [
+      "physical",
+      "altercation",
+      "between"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Unattended bag left at the bus terminal.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.9503324669373425,
+    "longitude": 79.87479089729356,
+    "dateOfIncident": "2026-04-14T01:39:53.157Z",
+    "createdAt": "2026-04-15T07:39:53.157Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.2143965790163233,
+    "keywords": [
+      "unattended",
+      "terminal."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Reporting theft of a mobile phone near the bus stand.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.944372991351731,
+    "longitude": 79.87421922886242,
+    "dateOfIncident": "2026-05-06T05:50:16.673Z",
+    "createdAt": "2026-05-07T20:50:16.673Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.44271025472993214,
+    "keywords": [
+      "reporting",
+      "mobile",
+      "stand."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Unidentified vehicle parked outside the bank for several hours.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.944356963355215,
+    "longitude": 79.875359770472,
+    "dateOfIncident": "2026-04-22T13:05:43.806Z",
+    "createdAt": "2026-04-23T15:05:43.806Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.5640922973968223,
+    "keywords": [
+      "unidentified",
+      "vehicle",
+      "parked"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Dehiwala",
+    "description": "Large scale transport of illegal substances intercepted.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Dehiwala",
+    "latitude": 6.839902448228201,
+    "longitude": 79.86823323423039,
+    "dateOfIncident": "2026-04-16T00:58:43.490Z",
+    "createdAt": "2026-04-17T09:58:43.490Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.8814475686815484,
+    "keywords": [
+      "transport",
+      "illegal",
+      "substances"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Pettah",
+    "description": "Victim assaulted with a blunt object. Sustained head injuries.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Pettah",
+    "latitude": 6.93893154292217,
+    "longitude": 79.85546448536579,
+    "dateOfIncident": "2026-04-12T16:33:53.793Z",
+    "createdAt": "2026-04-13T18:33:53.793Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.8974699332642433,
+    "keywords": [
+      "victim",
+      "assaulted",
+      "object."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.945218726741335,
+    "longitude": 79.87270841897109,
+    "dateOfIncident": "2026-04-26T19:50:19.661Z",
+    "createdAt": "2026-04-27T05:50:19.661Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.48305427896823644,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Moratuwa",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Moratuwa",
+    "latitude": 6.775686689272528,
+    "longitude": 79.8786136562993,
+    "dateOfIncident": "2026-04-20T13:33:30.169Z",
+    "createdAt": "2026-04-21T12:33:30.169Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.10551588795618216,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Grandpass",
+    "description": "Physical altercation between two individuals outside a pub.",
+    "category": "Assault",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.945441034887801,
+    "longitude": 79.8698060132524,
+    "dateOfIncident": "2026-04-19T16:49:32.286Z",
+    "createdAt": "2026-04-21T01:49:32.286Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.7838107634270906,
+    "keywords": [
+      "physical",
+      "altercation",
+      "between"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Reports of someone trying to open car doors in the neighborhood.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.9428200196051115,
+    "longitude": 79.8747050216118,
+    "dateOfIncident": "2026-04-26T18:05:06.875Z",
+    "createdAt": "2026-04-27T21:05:06.875Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.6051678091567809,
+    "keywords": [
+      "reports",
+      "someone",
+      "trying"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Individuals loitering near the ATM late at night.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.9493883196121224,
+    "longitude": 79.8730377916753,
+    "dateOfIncident": "2026-04-08T22:46:40.158Z",
+    "createdAt": "2026-04-09T16:46:40.158Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.3896253411806087,
+    "keywords": [
+      "individuals",
+      "loitering",
+      "night."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Suspect broke into a parked vehicle and stole a laptop bag.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.941303346779502,
+    "longitude": 79.86972211401077,
+    "dateOfIncident": "2026-04-29T19:43:12.163Z",
+    "createdAt": "2026-04-30T13:43:12.163Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.5935898315896591,
+    "keywords": [
+      "suspect",
+      "parked",
+      "vehicle"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Pettah",
+    "description": "Suspicious individuals exchanging small packages in an alley.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Pettah",
+    "latitude": 6.941560066376022,
+    "longitude": 79.85386788447023,
+    "dateOfIncident": "2026-04-26T21:24:51.640Z",
+    "createdAt": "2026-04-28T07:24:51.640Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.7312587694269548,
+    "keywords": [
+      "suspicious",
+      "individuals",
+      "exchanging"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Moratuwa",
+    "description": "Restraining order violation reported.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Moratuwa",
+    "latitude": 6.775012926070469,
+    "longitude": 79.8830974667263,
+    "dateOfIncident": "2026-04-30T18:21:49.925Z",
+    "createdAt": "2026-05-01T14:21:49.925Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.5301074277398236,
+    "keywords": [
+      "restraining",
+      "violation",
+      "reported."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Traffic reported at Grandpass",
+    "description": "Vehicle parked illegally blocking the main road.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.949658253579247,
+    "longitude": 79.87491403420537,
+    "dateOfIncident": "2026-04-24T11:59:28.688Z",
+    "createdAt": "2026-04-25T17:59:28.688Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.4625007147657259,
+    "keywords": [
+      "vehicle",
+      "parked",
+      "illegally"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Restraining order violation reported.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.949649103305911,
+    "longitude": 79.86944314868121,
+    "dateOfIncident": "2026-04-10T12:50:03.994Z",
+    "createdAt": "2026-04-10T23:50:03.994Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.99,
+    "keywords": [
+      "restraining",
+      "violation",
+      "reported."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Bambalapitiya",
+    "description": "Restraining order violation reported.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Bambalapitiya",
+    "latitude": 6.89089008144403,
+    "longitude": 79.8532704051011,
+    "dateOfIncident": "2026-05-01T06:16:39.371Z",
+    "createdAt": "2026-05-02T06:16:39.371Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.5247807195511882,
+    "keywords": [
+      "restraining",
+      "violation",
+      "reported."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Moratuwa",
+    "description": "Suspect broke into a parked vehicle and stole a laptop bag.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Moratuwa",
+    "latitude": 6.777060047502958,
+    "longitude": 79.88153034130316,
+    "dateOfIncident": "2026-04-09T12:43:05.289Z",
+    "createdAt": "2026-04-10T20:43:05.289Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.3763729479268436,
+    "keywords": [
+      "suspect",
+      "parked",
+      "vehicle"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Bambalapitiya",
+    "description": "Victim assaulted with a blunt object. Sustained head injuries.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Bambalapitiya",
+    "latitude": 6.892553801447524,
+    "longitude": 79.85083019089792,
+    "dateOfIncident": "2026-04-09T18:45:45.282Z",
+    "createdAt": "2026-04-11T14:45:45.282Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.57697854661071,
+    "keywords": [
+      "victim",
+      "assaulted",
+      "object."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Moratuwa",
+    "description": "Suspicious individuals exchanging small packages in an alley.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Moratuwa",
+    "latitude": 6.7713174499981745,
+    "longitude": 79.87735952862585,
+    "dateOfIncident": "2026-04-10T11:02:28.337Z",
+    "createdAt": "2026-04-12T11:02:28.337Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.3536106473904979,
+    "keywords": [
+      "suspicious",
+      "individuals",
+      "exchanging"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Wellawatte",
+    "description": "Victim assaulted with a blunt object. Sustained head injuries.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Wellawatte",
+    "latitude": 6.8692970910505515,
+    "longitude": 79.86374129836238,
+    "dateOfIncident": "2026-04-26T17:54:53.846Z",
+    "createdAt": "2026-04-27T04:54:53.846Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.3098733523153719,
+    "keywords": [
+      "victim",
+      "assaulted",
+      "object."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Unattended bag left at the bus terminal.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.950671062713224,
+    "longitude": 79.8674256943376,
+    "dateOfIncident": "2026-04-13T20:55:16.171Z",
+    "createdAt": "2026-04-15T19:55:16.171Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.5482162198451295,
+    "keywords": [
+      "unattended",
+      "terminal."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Raid conducted based on tip-off. Found suspected heroin packets.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.945109606921886,
+    "longitude": 79.87119992568043,
+    "dateOfIncident": "2026-04-12T20:54:23.310Z",
+    "createdAt": "2026-04-14T05:54:23.310Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.721803495301633,
+    "keywords": [
+      "conducted",
+      "tip-off.",
+      "suspected"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Moratuwa",
+    "description": "Individuals loitering near the ATM late at night.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Moratuwa",
+    "latitude": 6.773242097155405,
+    "longitude": 79.88573823936318,
+    "dateOfIncident": "2026-04-13T03:03:15.520Z",
+    "createdAt": "2026-04-15T00:03:15.520Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.47200613974036176,
+    "keywords": [
+      "individuals",
+      "loitering",
+      "night."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Neighbors reported loud screaming and sounds of struggle.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.949035409300273,
+    "longitude": 79.86885519877079,
+    "dateOfIncident": "2026-04-24T20:12:11.418Z",
+    "createdAt": "2026-04-26T18:12:11.418Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.7197317719928791,
+    "keywords": [
+      "neighbors",
+      "reported",
+      "screaming"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Large scale transport of illegal substances intercepted.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.948722383443607,
+    "longitude": 79.8729331206973,
+    "dateOfIncident": "2026-04-19T02:17:25.474Z",
+    "createdAt": "2026-04-19T14:17:25.474Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.6855546082539195,
+    "keywords": [
+      "transport",
+      "illegal",
+      "substances"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Bambalapitiya",
+    "description": "Burglary at a local shop during the night. Cash register emptied.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Bambalapitiya",
+    "latitude": 6.894189604636227,
+    "longitude": 79.85618622934436,
+    "dateOfIncident": "2026-04-22T13:22:29.428Z",
+    "createdAt": "2026-04-23T16:22:29.428Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.006662567019745214,
+    "keywords": [
+      "burglary",
+      "during",
+      "night."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Reporting theft of a mobile phone near the bus stand.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.946633573338585,
+    "longitude": 79.86621374571878,
+    "dateOfIncident": "2026-05-05T23:19:11.071Z",
+    "createdAt": "2026-05-06T05:19:11.071Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.29096977709233457,
+    "keywords": [
+      "reporting",
+      "mobile",
+      "stand."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Dehiwala",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Dehiwala",
+    "latitude": 6.838476016957956,
+    "longitude": 79.86740752187951,
+    "dateOfIncident": "2026-04-08T04:03:46.043Z",
+    "createdAt": "2026-04-08T11:03:46.043Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.04597351263115612,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Neighbors reported loud screaming and sounds of struggle.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.949050029824702,
+    "longitude": 79.86835704368256,
+    "dateOfIncident": "2026-04-11T19:25:41.426Z",
+    "createdAt": "2026-04-12T01:25:41.426Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.9369919774951028,
+    "keywords": [
+      "neighbors",
+      "reported",
+      "screaming"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Dehiwala",
+    "description": "Unattended bag left at the bus terminal.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "Pending",
+    "location": "Dehiwala",
+    "latitude": 6.842234725043259,
+    "longitude": 79.8745317154979,
+    "dateOfIncident": "2026-04-11T12:56:55.203Z",
+    "createdAt": "2026-04-12T10:56:55.203Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.48619118447470266,
+    "keywords": [
+      "unattended",
+      "terminal."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Large scale transport of illegal substances intercepted.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.943021759683362,
+    "longitude": 79.8737157063337,
+    "dateOfIncident": "2026-04-15T23:46:34.713Z",
+    "createdAt": "2026-04-17T02:46:34.713Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.6757251439770033,
+    "keywords": [
+      "transport",
+      "illegal",
+      "substances"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Assault reported at Bambalapitiya",
+    "description": "Victim assaulted with a blunt object. Sustained head injuries.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Bambalapitiya",
+    "latitude": 6.890414857690711,
+    "longitude": 79.85765882084233,
+    "dateOfIncident": "2026-04-24T22:01:31.039Z",
+    "createdAt": "2026-04-26T13:01:31.039Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.6731713224124942,
+    "keywords": [
+      "victim",
+      "assaulted",
+      "object."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Burglary at a local shop during the night. Cash register emptied.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.947023996655994,
+    "longitude": 79.86958924133803,
+    "dateOfIncident": "2026-04-08T12:18:53.654Z",
+    "createdAt": "2026-04-10T08:18:53.654Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.3533988853190691,
+    "keywords": [
+      "burglary",
+      "during",
+      "night."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Individual apprehended with marijuana near the school zone.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.940949054759595,
+    "longitude": 79.86870138740153,
+    "dateOfIncident": "2026-04-06T22:29:54.674Z",
+    "createdAt": "2026-04-08T09:29:54.674Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.8003841925261053,
+    "keywords": [
+      "individual",
+      "apprehended",
+      "marijuana"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Ongoing dispute between spouses requiring police intervention.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.942870155231892,
+    "longitude": 79.86749763218329,
+    "dateOfIncident": "2026-05-04T05:10:33.800Z",
+    "createdAt": "2026-05-05T03:10:33.800Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.99,
+    "keywords": [
+      "ongoing",
+      "dispute",
+      "between"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Large scale transport of illegal substances intercepted.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.942981984140964,
+    "longitude": 79.8751644278242,
+    "dateOfIncident": "2026-05-04T14:44:18.775Z",
+    "createdAt": "2026-05-06T11:44:18.775Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.6003315347708312,
+    "keywords": [
+      "transport",
+      "illegal",
+      "substances"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Pettah",
+    "description": "Raid conducted based on tip-off. Found suspected heroin packets.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Pettah",
+    "latitude": 6.940852909550414,
+    "longitude": 79.8517888284727,
+    "dateOfIncident": "2026-05-05T00:32:40.676Z",
+    "createdAt": "2026-05-06T11:32:40.676Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.99,
+    "keywords": [
+      "conducted",
+      "tip-off.",
+      "suspected"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Wellawatte",
+    "description": "Restraining order violation reported.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "Resolved",
+    "location": "Wellawatte",
+    "latitude": 6.871497695147858,
+    "longitude": 79.86245072817425,
+    "dateOfIncident": "2026-04-12T02:09:32.451Z",
+    "createdAt": "2026-04-12T05:09:32.451Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.7362852818139284,
+    "keywords": [
+      "restraining",
+      "violation",
+      "reported."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Restraining order violation reported.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.950462258212203,
+    "longitude": 79.86729584359277,
+    "dateOfIncident": "2026-04-28T23:22:06.588Z",
+    "createdAt": "2026-04-30T16:22:06.588Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.9567771145669259,
+    "keywords": [
+      "restraining",
+      "violation",
+      "reported."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Maradana",
+    "description": "Reports of someone trying to open car doors in the neighborhood.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Maradana",
+    "latitude": 6.926475186017731,
+    "longitude": 79.8586115505671,
+    "dateOfIncident": "2026-04-12T21:03:21.841Z",
+    "createdAt": "2026-04-14T02:03:21.841Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.02019116520130293,
+    "keywords": [
+      "reports",
+      "someone",
+      "trying"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Wellawatte",
+    "description": "Unidentified vehicle parked outside the bank for several hours.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Wellawatte",
+    "latitude": 6.87724475679601,
+    "longitude": 79.86012064366507,
+    "dateOfIncident": "2026-04-20T23:18:18.795Z",
+    "createdAt": "2026-04-21T04:18:18.795Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.2862457151909735,
+    "keywords": [
+      "unidentified",
+      "vehicle",
+      "parked"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Maradana",
+    "description": "Suspicious individuals exchanging small packages in an alley.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Maradana",
+    "latitude": 6.9295400216721506,
+    "longitude": 79.86123514544923,
+    "dateOfIncident": "2026-05-01T21:17:17.442Z",
+    "createdAt": "2026-05-03T05:17:17.442Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.38408500715795973,
+    "keywords": [
+      "suspicious",
+      "individuals",
+      "exchanging"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Reporting theft of a mobile phone near the bus stand.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.9504851839745685,
+    "longitude": 79.86707482084141,
+    "dateOfIncident": "2026-04-18T11:36:00.540Z",
+    "createdAt": "2026-04-19T14:36:00.540Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.5907289824917419,
+    "keywords": [
+      "reporting",
+      "mobile",
+      "stand."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Ongoing dispute between spouses requiring police intervention.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.949805144671153,
+    "longitude": 79.86904113355288,
+    "dateOfIncident": "2026-04-27T16:24:15.458Z",
+    "createdAt": "2026-04-28T22:24:15.458Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.5986485855070794,
+    "keywords": [
+      "ongoing",
+      "dispute",
+      "between"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Individual apprehended with marijuana near the school zone.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.9409045019725415,
+    "longitude": 79.87499955436299,
+    "dateOfIncident": "2026-04-19T21:53:09.210Z",
+    "createdAt": "2026-04-20T02:53:09.210Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.6987135225522558,
+    "keywords": [
+      "individual",
+      "apprehended",
+      "marijuana"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Moratuwa",
+    "description": "Unidentified vehicle parked outside the bank for several hours.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Moratuwa",
+    "latitude": 6.76982390290318,
+    "longitude": 79.8854298731962,
+    "dateOfIncident": "2026-05-02T19:25:13.728Z",
+    "createdAt": "2026-05-03T02:25:13.728Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.11387280974688485,
+    "keywords": [
+      "unidentified",
+      "vehicle",
+      "parked"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Ongoing dispute between spouses requiring police intervention.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.941097834347723,
+    "longitude": 79.87521985095374,
+    "dateOfIncident": "2026-04-08T00:03:09.265Z",
+    "createdAt": "2026-04-08T03:03:09.265Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.9714948741341554,
+    "keywords": [
+      "ongoing",
+      "dispute",
+      "between"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Pettah",
+    "description": "Neighbors reported loud screaming and sounds of struggle.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Pettah",
+    "latitude": 6.943036623650006,
+    "longitude": 79.85867490222661,
+    "dateOfIncident": "2026-04-24T02:45:30.153Z",
+    "createdAt": "2026-04-24T10:45:30.153Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.7532160961414647,
+    "keywords": [
+      "neighbors",
+      "reported",
+      "screaming"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Suspicious individuals exchanging small packages in an alley.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.945860212384569,
+    "longitude": 79.8663583173134,
+    "dateOfIncident": "2026-04-13T11:05:54.865Z",
+    "createdAt": "2026-04-15T05:05:54.865Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.8755906141744598,
+    "keywords": [
+      "suspicious",
+      "individuals",
+      "exchanging"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Grandpass",
+    "description": "Reckless driving reported. Vehicle speeding through red lights.",
+    "category": "Traffic",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.943504832188432,
+    "longitude": 79.87044512609603,
+    "dateOfIncident": "2026-05-03T19:56:51.427Z",
+    "createdAt": "2026-05-05T06:56:51.427Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.28840269314967265,
+    "keywords": [
+      "reckless",
+      "driving",
+      "reported."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Ongoing dispute between spouses requiring police intervention.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.945682844053422,
+    "longitude": 79.87410903908297,
+    "dateOfIncident": "2026-05-05T06:37:58.098Z",
+    "createdAt": "2026-05-07T05:37:58.098Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.7790485600978283,
+    "keywords": [
+      "ongoing",
+      "dispute",
+      "between"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Assault reported at Grandpass",
+    "description": "Physical altercation between two individuals outside a pub.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.949222928233375,
+    "longitude": 79.87416609355432,
+    "dateOfIncident": "2026-05-04T17:11:27.974Z",
+    "createdAt": "2026-05-05T05:11:27.974Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.7152221330746189,
+    "keywords": [
+      "physical",
+      "altercation",
+      "between"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Assault reported at Grandpass",
+    "description": "Group fight reported near the junction.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.945194078371094,
+    "longitude": 79.86730619648354,
+    "dateOfIncident": "2026-04-06T18:42:50.838Z",
+    "createdAt": "2026-04-08T10:42:50.838Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.977344233021753,
+    "keywords": [
+      "reported",
+      "junction."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Reporting theft of a mobile phone near the bus stand.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.948389748538673,
+    "longitude": 79.86715841368192,
+    "dateOfIncident": "2026-04-29T09:36:30.623Z",
+    "createdAt": "2026-04-30T22:36:30.623Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.2694420726576651,
+    "keywords": [
+      "reporting",
+      "mobile",
+      "stand."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Bambalapitiya",
+    "description": "Unidentified vehicle parked outside the bank for several hours.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "Pending",
+    "location": "Bambalapitiya",
+    "latitude": 6.893366306006012,
+    "longitude": 79.85442547527089,
+    "dateOfIncident": "2026-04-21T01:06:39.440Z",
+    "createdAt": "2026-04-22T19:06:39.440Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.4727134857602471,
+    "keywords": [
+      "unidentified",
+      "vehicle",
+      "parked"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Wellawatte",
+    "description": "Victim assaulted with a blunt object. Sustained head injuries.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Wellawatte",
+    "latitude": 6.872648261597156,
+    "longitude": 79.85952633837971,
+    "dateOfIncident": "2026-04-09T17:00:21.921Z",
+    "createdAt": "2026-04-10T15:00:21.921Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.5653836431425352,
+    "keywords": [
+      "victim",
+      "assaulted",
+      "object."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Dehiwala",
+    "description": "Suspicious individuals exchanging small packages in an alley.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Dehiwala",
+    "latitude": 6.8456171802979195,
+    "longitude": 79.87185649065275,
+    "dateOfIncident": "2026-04-11T01:56:13.985Z",
+    "createdAt": "2026-04-11T09:56:13.985Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.35176085108396843,
+    "keywords": [
+      "suspicious",
+      "individuals",
+      "exchanging"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Bambalapitiya",
+    "description": "Individual apprehended with marijuana near the school zone.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "Resolved",
+    "location": "Bambalapitiya",
+    "latitude": 6.8933334817910215,
+    "longitude": 79.8521420682937,
+    "dateOfIncident": "2026-04-30T03:00:58.908Z",
+    "createdAt": "2026-05-01T00:00:58.908Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.5908846593289111,
+    "keywords": [
+      "individual",
+      "apprehended",
+      "marijuana"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Individuals loitering near the ATM late at night.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.942756713154877,
+    "longitude": 79.87463896441756,
+    "dateOfIncident": "2026-05-06T05:07:53.793Z",
+    "createdAt": "2026-05-06T12:07:53.793Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.5305459227494833,
+    "keywords": [
+      "individuals",
+      "loitering",
+      "night."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Assault reported at Bambalapitiya",
+    "description": "Domestic dispute escalated into physical violence.",
+    "category": "Assault",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Bambalapitiya",
+    "latitude": 6.894226433907172,
+    "longitude": 79.85837293397778,
+    "dateOfIncident": "2026-05-02T23:36:13.537Z",
+    "createdAt": "2026-05-03T15:36:13.537Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.40182783653907617,
+    "keywords": [
+      "domestic",
+      "dispute",
+      "escalated"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Pettah",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Pettah",
+    "latitude": 6.935361970613318,
+    "longitude": 79.85880457383364,
+    "dateOfIncident": "2026-04-13T10:17:51.569Z",
+    "createdAt": "2026-04-13T13:17:51.569Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.5588439118550448,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Moratuwa",
+    "description": "Individual apprehended with marijuana near the school zone.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Moratuwa",
+    "latitude": 6.77642522391984,
+    "longitude": 79.877319472276,
+    "dateOfIncident": "2026-05-05T01:04:53.171Z",
+    "createdAt": "2026-05-05T02:04:53.171Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.34587913577721646,
+    "keywords": [
+      "individual",
+      "apprehended",
+      "marijuana"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Traffic reported at Grandpass",
+    "description": "Severe traffic collision at the main intersection. Two injured.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.948814541427784,
+    "longitude": 79.8716939616787,
+    "dateOfIncident": "2026-04-29T16:43:07.504Z",
+    "createdAt": "2026-04-29T22:43:07.504Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.21227202475321721,
+    "keywords": [
+      "severe",
+      "traffic",
+      "collision"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Bambalapitiya",
+    "description": "Reckless driving reported. Vehicle speeding through red lights.",
+    "category": "Traffic",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Bambalapitiya",
+    "latitude": 6.897194289501488,
+    "longitude": 79.85344344037702,
+    "dateOfIncident": "2026-05-03T09:36:36.171Z",
+    "createdAt": "2026-05-03T20:36:36.171Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.4857550794674522,
+    "keywords": [
+      "reckless",
+      "driving",
+      "reported."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Large scale transport of illegal substances intercepted.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.944055835289228,
+    "longitude": 79.87003664886431,
+    "dateOfIncident": "2026-05-04T15:47:25.471Z",
+    "createdAt": "2026-05-06T07:47:25.471Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.7945196759013025,
+    "keywords": [
+      "transport",
+      "illegal",
+      "substances"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Unidentified vehicle parked outside the bank for several hours.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.94965494856175,
+    "longitude": 79.87485420156956,
+    "dateOfIncident": "2026-05-01T14:46:38.244Z",
+    "createdAt": "2026-05-01T20:46:38.244Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.36440259711041983,
+    "keywords": [
+      "unidentified",
+      "vehicle",
+      "parked"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Moratuwa",
+    "description": "Reporting theft of a mobile phone near the bus stand.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Moratuwa",
+    "latitude": 6.774550685361979,
+    "longitude": 79.88339478955547,
+    "dateOfIncident": "2026-04-13T07:22:56.577Z",
+    "createdAt": "2026-04-13T22:22:56.577Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.05870272565433532,
+    "keywords": [
+      "reporting",
+      "mobile",
+      "stand."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Traffic reported at Grandpass",
+    "description": "Vehicle parked illegally blocking the main road.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.942280225081116,
+    "longitude": 79.87137364307105,
+    "dateOfIncident": "2026-04-27T15:02:28.099Z",
+    "createdAt": "2026-04-28T00:02:28.099Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.3225451607403947,
+    "keywords": [
+      "vehicle",
+      "parked",
+      "illegally"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Assault reported at Grandpass",
+    "description": "Group fight reported near the junction.",
+    "category": "Assault",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.946967435042283,
+    "longitude": 79.87266643516891,
+    "dateOfIncident": "2026-05-02T22:00:55.407Z",
+    "createdAt": "2026-05-04T17:00:55.407Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.99,
+    "keywords": [
+      "reported",
+      "junction."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Large scale transport of illegal substances intercepted.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.950762486593786,
+    "longitude": 79.86841984246799,
+    "dateOfIncident": "2026-05-03T07:30:14.715Z",
+    "createdAt": "2026-05-04T06:30:14.715Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.933252403519655,
+    "keywords": [
+      "transport",
+      "illegal",
+      "substances"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Maradana",
+    "description": "Neighbors reported loud screaming and sounds of struggle.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Maradana",
+    "latitude": 6.929458144924521,
+    "longitude": 79.85927228097707,
+    "dateOfIncident": "2026-04-11T09:47:36.524Z",
+    "createdAt": "2026-04-11T23:47:36.524Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.32379090054787935,
+    "keywords": [
+      "neighbors",
+      "reported",
+      "screaming"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Grandpass",
+    "description": "Group fight reported near the junction.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.944806314642376,
+    "longitude": 79.8700565219732,
+    "dateOfIncident": "2026-05-04T21:59:57.227Z",
+    "createdAt": "2026-05-06T15:59:57.227Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.5528849789426707,
+    "keywords": [
+      "reported",
+      "junction."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Wellawatte",
+    "description": "Reckless driving reported. Vehicle speeding through red lights.",
+    "category": "Traffic",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Wellawatte",
+    "latitude": 6.874262627274138,
+    "longitude": 79.85948225600609,
+    "dateOfIncident": "2026-04-10T04:19:12.785Z",
+    "createdAt": "2026-04-11T06:19:12.785Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.354055439241334,
+    "keywords": [
+      "reckless",
+      "driving",
+      "reported."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Restraining order violation reported.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.949071911239119,
+    "longitude": 79.87441354901264,
+    "dateOfIncident": "2026-04-09T14:21:16.876Z",
+    "createdAt": "2026-04-10T15:21:16.876Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.913798420630829,
+    "keywords": [
+      "restraining",
+      "violation",
+      "reported."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Maradana",
+    "description": "Victim came to the station with visible bruises.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Maradana",
+    "latitude": 6.92977736274631,
+    "longitude": 79.86469115999613,
+    "dateOfIncident": "2026-04-07T12:31:20.230Z",
+    "createdAt": "2026-04-08T09:31:20.230Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.5143494773280227,
+    "keywords": [
+      "victim",
+      "station",
+      "visible"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Large scale transport of illegal substances intercepted.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.94879769408487,
+    "longitude": 79.8672490499427,
+    "dateOfIncident": "2026-04-21T20:22:07.843Z",
+    "createdAt": "2026-04-23T07:22:07.843Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.9527244846283767,
+    "keywords": [
+      "transport",
+      "illegal",
+      "substances"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Maradana",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Maradana",
+    "latitude": 6.927059967487431,
+    "longitude": 79.85989055106832,
+    "dateOfIncident": "2026-04-30T07:19:09.210Z",
+    "createdAt": "2026-05-02T05:19:09.210Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.26998138939524907,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Dehiwala",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Pending",
+    "location": "Dehiwala",
+    "latitude": 6.842101165964265,
+    "longitude": 79.86648123380573,
+    "dateOfIncident": "2026-04-17T05:27:55.892Z",
+    "createdAt": "2026-04-17T06:27:55.892Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.08290614837345245,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Domestic Violence reported at Pettah",
+    "description": "Restraining order violation reported.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Pettah",
+    "latitude": 6.934306502710318,
+    "longitude": 79.85449330357586,
+    "dateOfIncident": "2026-04-11T01:11:21.554Z",
+    "createdAt": "2026-04-11T03:11:21.554Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.8753265421078593,
+    "keywords": [
+      "restraining",
+      "violation",
+      "reported."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Wellawatte",
+    "description": "Reports of someone trying to open car doors in the neighborhood.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Wellawatte",
+    "latitude": 6.874104078901874,
+    "longitude": 79.86214132114641,
+    "dateOfIncident": "2026-04-21T23:00:01.247Z",
+    "createdAt": "2026-04-23T12:00:01.247Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.4761359164986405,
+    "keywords": [
+      "reports",
+      "someone",
+      "trying"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Grandpass",
+    "description": "Physical altercation between two individuals outside a pub.",
+    "category": "Assault",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.94371333816339,
+    "longitude": 79.87503016956411,
+    "dateOfIncident": "2026-04-10T05:17:48.128Z",
+    "createdAt": "2026-04-10T12:17:48.128Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.99,
+    "keywords": [
+      "physical",
+      "altercation",
+      "between"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Individuals loitering near the ATM late at night.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.9489344601804515,
+    "longitude": 79.8739116946149,
+    "dateOfIncident": "2026-04-23T16:31:58.473Z",
+    "createdAt": "2026-04-25T07:31:58.473Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.39809370254234727,
+    "keywords": [
+      "individuals",
+      "loitering",
+      "night."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Assault reported at Pettah",
+    "description": "Group fight reported near the junction.",
+    "category": "Assault",
+    "priority": "Critical",
+    "status": "Resolved",
+    "location": "Pettah",
+    "latitude": 6.936455091285991,
+    "longitude": 79.85654771292077,
+    "dateOfIncident": "2026-04-07T15:41:50.312Z",
+    "createdAt": "2026-04-07T22:41:50.312Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.9720817943519733,
+    "keywords": [
+      "reported",
+      "junction."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Bambalapitiya",
+    "description": "Restraining order violation reported.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Bambalapitiya",
+    "latitude": 6.8958184553430915,
+    "longitude": 79.8566189373126,
+    "dateOfIncident": "2026-05-02T09:14:22.287Z",
+    "createdAt": "2026-05-04T02:14:22.287Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.5714505201501909,
+    "keywords": [
+      "restraining",
+      "violation",
+      "reported."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Maradana",
+    "description": "Victim assaulted with a blunt object. Sustained head injuries.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Maradana",
+    "latitude": 6.923586399224156,
+    "longitude": 79.85789229777949,
+    "dateOfIncident": "2026-05-03T20:14:16.958Z",
+    "createdAt": "2026-05-05T05:14:16.958Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.4980561195441922,
+    "keywords": [
+      "victim",
+      "assaulted",
+      "object."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Unidentified vehicle parked outside the bank for several hours.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.948334927250953,
+    "longitude": 79.87395561510911,
+    "dateOfIncident": "2026-04-19T07:21:24.098Z",
+    "createdAt": "2026-04-19T11:21:24.098Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.3253966263149592,
+    "keywords": [
+      "unidentified",
+      "vehicle",
+      "parked"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Maradana",
+    "description": "Ongoing dispute between spouses requiring police intervention.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "Resolved",
+    "location": "Maradana",
+    "latitude": 6.922921961518924,
+    "longitude": 79.86236613561253,
+    "dateOfIncident": "2026-04-10T04:37:20.538Z",
+    "createdAt": "2026-04-11T19:37:20.538Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.7167219039075287,
+    "keywords": [
+      "ongoing",
+      "dispute",
+      "between"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.950496100719154,
+    "longitude": 79.87024643316869,
+    "dateOfIncident": "2026-04-09T17:02:16.359Z",
+    "createdAt": "2026-04-09T19:02:16.359Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.5022739228775419,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Pettah",
+    "description": "Individuals loitering near the ATM late at night.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Pettah",
+    "latitude": 6.9381591492349886,
+    "longitude": 79.851262170184,
+    "dateOfIncident": "2026-04-27T15:45:45.629Z",
+    "createdAt": "2026-04-28T11:45:45.629Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.5440032084476325,
+    "keywords": [
+      "individuals",
+      "loitering",
+      "night."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Bambalapitiya",
+    "description": "Suspicious individuals exchanging small packages in an alley.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Bambalapitiya",
+    "latitude": 6.888739539870977,
+    "longitude": 79.854007766553,
+    "dateOfIncident": "2026-04-26T14:35:40.306Z",
+    "createdAt": "2026-04-28T04:35:40.306Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.47914123761463884,
+    "keywords": [
+      "suspicious",
+      "individuals",
+      "exchanging"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Reporting theft of a mobile phone near the bus stand.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.946989063207449,
+    "longitude": 79.87296411205966,
+    "dateOfIncident": "2026-04-23T21:39:36.655Z",
+    "createdAt": "2026-04-23T23:39:36.655Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.5209593912256802,
+    "keywords": [
+      "reporting",
+      "mobile",
+      "stand."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Pettah",
+    "description": "Hit and run incident involving a motorcycle and a pedestrian.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Pettah",
+    "latitude": 6.943512350336892,
+    "longitude": 79.85230846369737,
+    "dateOfIncident": "2026-05-04T18:33:58.531Z",
+    "createdAt": "2026-05-05T10:33:58.531Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.2869670619395623,
+    "keywords": [
+      "incident",
+      "involving",
+      "motorcycle"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Neighbors reported loud screaming and sounds of struggle.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.94901485575389,
+    "longitude": 79.87112039271568,
+    "dateOfIncident": "2026-05-03T15:36:27.648Z",
+    "createdAt": "2026-05-04T01:36:27.648Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.9239093591766969,
+    "keywords": [
+      "neighbors",
+      "reported",
+      "screaming"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Restraining order violation reported.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.9507481783528045,
+    "longitude": 79.87316165744978,
+    "dateOfIncident": "2026-04-22T13:03:14.196Z",
+    "createdAt": "2026-04-24T02:03:14.196Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.9704125012909746,
+    "keywords": [
+      "restraining",
+      "violation",
+      "reported."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Reports of someone trying to open car doors in the neighborhood.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.943148233284341,
+    "longitude": 79.86920290161855,
+    "dateOfIncident": "2026-04-16T16:54:25.035Z",
+    "createdAt": "2026-04-17T03:54:25.035Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.25893081454037264,
+    "keywords": [
+      "reports",
+      "someone",
+      "trying"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Neighbors reported loud screaming and sounds of struggle.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.9457813875607055,
+    "longitude": 79.87038359081845,
+    "dateOfIncident": "2026-05-04T02:21:00.796Z",
+    "createdAt": "2026-05-04T13:21:00.796Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.9887662534057791,
+    "keywords": [
+      "neighbors",
+      "reported",
+      "screaming"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Pettah",
+    "description": "Hit and run incident involving a motorcycle and a pedestrian.",
+    "category": "Traffic",
+    "priority": "Medium",
+    "status": "Pending",
+    "location": "Pettah",
+    "latitude": 6.942079355681336,
+    "longitude": 79.85820263228118,
+    "dateOfIncident": "2026-04-24T15:28:33.319Z",
+    "createdAt": "2026-04-26T12:28:33.319Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.4490315945801608,
+    "keywords": [
+      "incident",
+      "involving",
+      "motorcycle"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Moratuwa",
+    "description": "Reckless driving reported. Vehicle speeding through red lights.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Moratuwa",
+    "latitude": 6.775529933999959,
+    "longitude": 79.88270293517601,
+    "dateOfIncident": "2026-04-26T12:17:06.922Z",
+    "createdAt": "2026-04-27T12:17:06.922Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.49255717291027745,
+    "keywords": [
+      "reckless",
+      "driving",
+      "reported."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Moratuwa",
+    "description": "Reports of someone trying to open car doors in the neighborhood.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Moratuwa",
+    "latitude": 6.770659235190321,
+    "longitude": 79.88040241404161,
+    "dateOfIncident": "2026-04-24T08:42:00.112Z",
+    "createdAt": "2026-04-25T13:42:00.112Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.180303622652638,
+    "keywords": [
+      "reports",
+      "someone",
+      "trying"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Moratuwa",
+    "description": "Large scale transport of illegal substances intercepted.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "Resolved",
+    "location": "Moratuwa",
+    "latitude": 6.768781126119583,
+    "longitude": 79.8774832608852,
+    "dateOfIncident": "2026-04-10T20:50:30.357Z",
+    "createdAt": "2026-04-12T03:50:30.357Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.8623355712006537,
+    "keywords": [
+      "transport",
+      "illegal",
+      "substances"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Traffic reported at Dehiwala",
+    "description": "Vehicle parked illegally blocking the main road.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Dehiwala",
+    "latitude": 6.838582401140374,
+    "longitude": 79.87290677395947,
+    "dateOfIncident": "2026-04-17T15:31:08.051Z",
+    "createdAt": "2026-04-17T16:31:08.051Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.20103072149746426,
+    "keywords": [
+      "vehicle",
+      "parked",
+      "illegally"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Wellawatte",
+    "description": "Unattended bag left at the bus terminal.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Wellawatte",
+    "latitude": 6.876245678659559,
+    "longitude": 79.86102461384424,
+    "dateOfIncident": "2026-04-30T13:36:52.538Z",
+    "createdAt": "2026-05-02T01:36:52.538Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.3903499114282085,
+    "keywords": [
+      "unattended",
+      "terminal."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Raid conducted based on tip-off. Found suspected heroin packets.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.944706305738349,
+    "longitude": 79.86899103193572,
+    "dateOfIncident": "2026-04-17T20:37:19.754Z",
+    "createdAt": "2026-04-19T00:37:19.754Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.9207984588251594,
+    "keywords": [
+      "conducted",
+      "tip-off.",
+      "suspected"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Grandpass",
+    "description": "Severe traffic collision at the main intersection. Two injured.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.943438958928974,
+    "longitude": 79.86662220970085,
+    "dateOfIncident": "2026-04-08T03:51:11.068Z",
+    "createdAt": "2026-04-09T05:51:11.068Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.20156427846085895,
+    "keywords": [
+      "severe",
+      "traffic",
+      "collision"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Burglary at a local shop during the night. Cash register emptied.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.944769613110055,
+    "longitude": 79.86866078795889,
+    "dateOfIncident": "2026-04-19T09:09:01.238Z",
+    "createdAt": "2026-04-20T12:09:01.238Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.3075331205489494,
+    "keywords": [
+      "burglary",
+      "during",
+      "night."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Suspect broke into a parked vehicle and stole a laptop bag.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.949691900358468,
+    "longitude": 79.87271896736918,
+    "dateOfIncident": "2026-04-13T21:03:46.230Z",
+    "createdAt": "2026-04-15T20:03:46.230Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.35565838995973326,
+    "keywords": [
+      "suspect",
+      "parked",
+      "vehicle"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Dehiwala",
+    "description": "Hit and run incident involving a motorcycle and a pedestrian.",
+    "category": "Traffic",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Dehiwala",
+    "latitude": 6.836258365112735,
+    "longitude": 79.87118183228381,
+    "dateOfIncident": "2026-04-16T09:28:55.872Z",
+    "createdAt": "2026-04-16T12:28:55.872Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.010383425709521998,
+    "keywords": [
+      "incident",
+      "involving",
+      "motorcycle"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Reporting theft of a mobile phone near the bus stand.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.9434081044319464,
+    "longitude": 79.86755738382692,
+    "dateOfIncident": "2026-04-14T16:44:05.018Z",
+    "createdAt": "2026-04-16T06:44:05.018Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.5066727778947866,
+    "keywords": [
+      "reporting",
+      "mobile",
+      "stand."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Reports of someone trying to open car doors in the neighborhood.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.941273629025886,
+    "longitude": 79.8740166976836,
+    "dateOfIncident": "2026-04-30T02:47:17.628Z",
+    "createdAt": "2026-05-01T03:47:17.628Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.32955620676151615,
+    "keywords": [
+      "reports",
+      "someone",
+      "trying"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Maradana",
+    "description": "Reporting theft of a mobile phone near the bus stand.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Maradana",
+    "latitude": 6.9319224453257,
+    "longitude": 79.86318541959751,
+    "dateOfIncident": "2026-04-19T10:52:30.833Z",
+    "createdAt": "2026-04-19T12:52:30.833Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.13838170098910973,
+    "keywords": [
+      "reporting",
+      "mobile",
+      "stand."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Bambalapitiya",
+    "description": "Unattended bag left at the bus terminal.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Bambalapitiya",
+    "latitude": 6.895201269495042,
+    "longitude": 79.85595068555321,
+    "dateOfIncident": "2026-04-18T23:16:17.592Z",
+    "createdAt": "2026-04-19T10:16:17.592Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.19683164397793929,
+    "keywords": [
+      "unattended",
+      "terminal."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Wellawatte",
+    "description": "Suspicious individuals exchanging small packages in an alley.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "Resolved",
+    "location": "Wellawatte",
+    "latitude": 6.8766646509851705,
+    "longitude": 79.86262721085123,
+    "dateOfIncident": "2026-04-07T00:57:44.521Z",
+    "createdAt": "2026-04-07T20:57:44.521Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.5578262795471088,
+    "keywords": [
+      "suspicious",
+      "individuals",
+      "exchanging"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Moratuwa",
+    "description": "Unattended bag left at the bus terminal.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Moratuwa",
+    "latitude": 6.769655698912014,
+    "longitude": 79.87847451333928,
+    "dateOfIncident": "2026-04-06T12:53:21.036Z",
+    "createdAt": "2026-04-06T17:53:21.036Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.008664519683979632,
+    "keywords": [
+      "unattended",
+      "terminal."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Maradana",
+    "description": "Domestic dispute escalated into physical violence.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Maradana",
+    "latitude": 6.929921354835304,
+    "longitude": 79.85986837961978,
+    "dateOfIncident": "2026-04-24T22:27:27.062Z",
+    "createdAt": "2026-04-25T17:27:27.062Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.535104125794553,
+    "keywords": [
+      "domestic",
+      "dispute",
+      "escalated"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Traffic reported at Grandpass",
+    "description": "Reckless driving reported. Vehicle speeding through red lights.",
+    "category": "Traffic",
+    "priority": "Medium",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.942947703718056,
+    "longitude": 79.86671755419755,
+    "dateOfIncident": "2026-04-17T13:13:02.995Z",
+    "createdAt": "2026-04-17T20:13:02.995Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.43498899122696427,
+    "keywords": [
+      "reckless",
+      "driving",
+      "reported."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Bambalapitiya",
+    "description": "Individual apprehended with marijuana near the school zone.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "Resolved",
+    "location": "Bambalapitiya",
+    "latitude": 6.896873265403298,
+    "longitude": 79.85403735337651,
+    "dateOfIncident": "2026-04-15T10:17:30.961Z",
+    "createdAt": "2026-04-15T19:17:30.961Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.8420063399091993,
+    "keywords": [
+      "individual",
+      "apprehended",
+      "marijuana"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Burglary at a local shop during the night. Cash register emptied.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.946247563678343,
+    "longitude": 79.87178026589999,
+    "dateOfIncident": "2026-04-19T04:37:02.852Z",
+    "createdAt": "2026-04-20T17:37:02.852Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.36574233883405455,
+    "keywords": [
+      "burglary",
+      "during",
+      "night."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Maradana",
+    "description": "Hit and run incident involving a motorcycle and a pedestrian.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Maradana",
+    "latitude": 6.923976059096021,
+    "longitude": 79.85721149027182,
+    "dateOfIncident": "2026-04-07T08:35:37.778Z",
+    "createdAt": "2026-04-07T12:35:37.778Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.4983313004482206,
+    "keywords": [
+      "incident",
+      "involving",
+      "motorcycle"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Victim came to the station with visible bruises.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.949061765389105,
+    "longitude": 79.87029173099269,
+    "dateOfIncident": "2026-04-13T09:32:21.345Z",
+    "createdAt": "2026-04-14T11:32:21.345Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.9217289659065484,
+    "keywords": [
+      "victim",
+      "station",
+      "visible"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Grandpass",
+    "description": "Reckless driving reported. Vehicle speeding through red lights.",
+    "category": "Traffic",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.946512848587211,
+    "longitude": 79.87423463297657,
+    "dateOfIncident": "2026-04-18T03:32:14.496Z",
+    "createdAt": "2026-04-19T02:32:14.496Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.6174506073964907,
+    "keywords": [
+      "reckless",
+      "driving",
+      "reported."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Moratuwa",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Moratuwa",
+    "latitude": 6.777934229819412,
+    "longitude": 79.88266817682822,
+    "dateOfIncident": "2026-04-27T22:40:53.732Z",
+    "createdAt": "2026-04-28T16:40:53.732Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.39295452529316965,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Maradana",
+    "description": "Unidentified vehicle parked outside the bank for several hours.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Maradana",
+    "latitude": 6.923877900249748,
+    "longitude": 79.86060501883877,
+    "dateOfIncident": "2026-04-26T09:17:14.559Z",
+    "createdAt": "2026-04-28T09:17:14.559Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.006137260354927343,
+    "keywords": [
+      "unidentified",
+      "vehicle",
+      "parked"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Grandpass",
+    "description": "Physical altercation between two individuals outside a pub.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.941262763149168,
+    "longitude": 79.87413933839068,
+    "dateOfIncident": "2026-04-28T22:02:41.170Z",
+    "createdAt": "2026-04-29T03:02:41.170Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.8850476521421984,
+    "keywords": [
+      "physical",
+      "altercation",
+      "between"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Assault reported at Bambalapitiya",
+    "description": "Group fight reported near the junction.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Bambalapitiya",
+    "latitude": 6.889036485649657,
+    "longitude": 79.8509125309834,
+    "dateOfIncident": "2026-04-19T19:58:10.771Z",
+    "createdAt": "2026-04-19T23:58:10.771Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.6878741537014221,
+    "keywords": [
+      "reported",
+      "junction."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Wellawatte",
+    "description": "Group fight reported near the junction.",
+    "category": "Assault",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Wellawatte",
+    "latitude": 6.8783305925454705,
+    "longitude": 79.86322778775813,
+    "dateOfIncident": "2026-04-27T16:36:02.064Z",
+    "createdAt": "2026-04-28T02:36:02.064Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.7789580970066784,
+    "keywords": [
+      "reported",
+      "junction."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Pettah",
+    "description": "Raid conducted based on tip-off. Found suspected heroin packets.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Pettah",
+    "latitude": 6.941816392603196,
+    "longitude": 79.85625439094062,
+    "dateOfIncident": "2026-04-29T02:49:35.575Z",
+    "createdAt": "2026-04-29T06:49:35.575Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.6205837359189825,
+    "keywords": [
+      "conducted",
+      "tip-off.",
+      "suspected"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Wellawatte",
+    "description": "Individuals loitering near the ATM late at night.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Wellawatte",
+    "latitude": 6.8735308106817135,
+    "longitude": 79.85620791949626,
+    "dateOfIncident": "2026-04-29T04:28:41.815Z",
+    "createdAt": "2026-04-29T13:28:41.815Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.3057143209166643,
+    "keywords": [
+      "individuals",
+      "loitering",
+      "night."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.943118219722664,
+    "longitude": 79.86676645428815,
+    "dateOfIncident": "2026-04-30T03:40:06.227Z",
+    "createdAt": "2026-05-01T16:40:06.227Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.6202237394419661,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Assault reported at Maradana",
+    "description": "Victim assaulted with a blunt object. Sustained head injuries.",
+    "category": "Assault",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Maradana",
+    "latitude": 6.931329342474719,
+    "longitude": 79.86561978217627,
+    "dateOfIncident": "2026-04-16T22:30:39.344Z",
+    "createdAt": "2026-04-17T16:30:39.344Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.6160224072732579,
+    "keywords": [
+      "victim",
+      "assaulted",
+      "object."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Domestic Violence reported at Bambalapitiya",
+    "description": "Restraining order violation reported.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Bambalapitiya",
+    "latitude": 6.888817508982261,
+    "longitude": 79.85747428420432,
+    "dateOfIncident": "2026-04-06T19:39:33.573Z",
+    "createdAt": "2026-04-08T02:39:33.573Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.40338876714245786,
+    "keywords": [
+      "restraining",
+      "violation",
+      "reported."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Burglary at a local shop during the night. Cash register emptied.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.943116400152797,
+    "longitude": 79.86633392630114,
+    "dateOfIncident": "2026-04-28T06:37:52.648Z",
+    "createdAt": "2026-04-30T06:37:52.648Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.618605289974862,
+    "keywords": [
+      "burglary",
+      "during",
+      "night."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Assault reported at Grandpass",
+    "description": "Group fight reported near the junction.",
+    "category": "Assault",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.945413704025768,
+    "longitude": 79.87344397235042,
+    "dateOfIncident": "2026-05-03T12:18:21.354Z",
+    "createdAt": "2026-05-05T10:18:21.354Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.7451897767171549,
+    "keywords": [
+      "reported",
+      "junction."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Pettah",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Pettah",
+    "latitude": 6.93492679072134,
+    "longitude": 79.85328201111128,
+    "dateOfIncident": "2026-04-08T06:19:36.250Z",
+    "createdAt": "2026-04-09T17:19:36.250Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.5619125015413062,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.944865842722784,
+    "longitude": 79.87238441581552,
+    "dateOfIncident": "2026-04-16T13:04:26.726Z",
+    "createdAt": "2026-04-17T07:04:26.726Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.513925923048564,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Suspicious individuals exchanging small packages in an alley.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.945190229318055,
+    "longitude": 79.87166532425839,
+    "dateOfIncident": "2026-04-12T05:14:09.754Z",
+    "createdAt": "2026-04-13T05:14:09.754Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.7916192712977062,
+    "keywords": [
+      "suspicious",
+      "individuals",
+      "exchanging"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Restraining order violation reported.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.946557645757064,
+    "longitude": 79.8682656178508,
+    "dateOfIncident": "2026-04-24T14:31:33.152Z",
+    "createdAt": "2026-04-25T06:31:33.152Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.7658761228522442,
+    "keywords": [
+      "restraining",
+      "violation",
+      "reported."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Moratuwa",
+    "description": "Severe traffic collision at the main intersection. Two injured.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Moratuwa",
+    "latitude": 6.7753433351609305,
+    "longitude": 79.88206573544475,
+    "dateOfIncident": "2026-04-06T23:11:29.696Z",
+    "createdAt": "2026-04-07T17:11:29.696Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.3733020880103841,
+    "keywords": [
+      "severe",
+      "traffic",
+      "collision"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Suspicious individuals exchanging small packages in an alley.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.9429377091272455,
+    "longitude": 79.8691363255583,
+    "dateOfIncident": "2026-04-08T22:52:44.866Z",
+    "createdAt": "2026-04-10T22:52:44.866Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.6608967474732437,
+    "keywords": [
+      "suspicious",
+      "individuals",
+      "exchanging"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Moratuwa",
+    "description": "Ongoing dispute between spouses requiring police intervention.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Moratuwa",
+    "latitude": 6.7726861152233795,
+    "longitude": 79.8841031541612,
+    "dateOfIncident": "2026-04-19T01:42:51.725Z",
+    "createdAt": "2026-04-20T04:42:51.725Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.5414266393584994,
+    "keywords": [
+      "ongoing",
+      "dispute",
+      "between"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Traffic reported at Grandpass",
+    "description": "Hit and run incident involving a motorcycle and a pedestrian.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.946424972723889,
+    "longitude": 79.86832298886706,
+    "dateOfIncident": "2026-05-05T23:10:18.828Z",
+    "createdAt": "2026-05-07T00:10:18.828Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.2600341478155935,
+    "keywords": [
+      "incident",
+      "involving",
+      "motorcycle"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Grandpass",
+    "description": "Reckless driving reported. Vehicle speeding through red lights.",
+    "category": "Traffic",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.9432252833844466,
+    "longitude": 79.86741104261421,
+    "dateOfIncident": "2026-04-12T06:59:59.267Z",
+    "createdAt": "2026-04-14T06:59:59.267Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.34252670910899813,
+    "keywords": [
+      "reckless",
+      "driving",
+      "reported."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Restraining order violation reported.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.945081097169919,
+    "longitude": 79.87440139497376,
+    "dateOfIncident": "2026-04-10T19:41:14.419Z",
+    "createdAt": "2026-04-11T07:41:14.419Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.7976228717035592,
+    "keywords": [
+      "restraining",
+      "violation",
+      "reported."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Moratuwa",
+    "description": "Large scale transport of illegal substances intercepted.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Moratuwa",
+    "latitude": 6.773084618783164,
+    "longitude": 79.88280236663842,
+    "dateOfIncident": "2026-04-23T20:24:56.310Z",
+    "createdAt": "2026-04-25T03:24:56.310Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.7806928842867289,
+    "keywords": [
+      "transport",
+      "illegal",
+      "substances"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Grandpass",
+    "description": "Victim assaulted with a blunt object. Sustained head injuries.",
+    "category": "Assault",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.94137061865269,
+    "longitude": 79.87129666652922,
+    "dateOfIncident": "2026-04-12T22:52:44.593Z",
+    "createdAt": "2026-04-14T07:52:44.593Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.99,
+    "keywords": [
+      "victim",
+      "assaulted",
+      "object."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Dehiwala",
+    "description": "Vehicle parked illegally blocking the main road.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Dehiwala",
+    "latitude": 6.838788130036738,
+    "longitude": 79.86895359705991,
+    "dateOfIncident": "2026-04-20T03:56:38.510Z",
+    "createdAt": "2026-04-21T17:56:38.510Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.42440647709464807,
+    "keywords": [
+      "vehicle",
+      "parked",
+      "illegally"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Individual apprehended with marijuana near the school zone.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.942103751347812,
+    "longitude": 79.8735625257987,
+    "dateOfIncident": "2026-04-21T16:08:13.098Z",
+    "createdAt": "2026-04-22T01:08:13.098Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.5108247127184742,
+    "keywords": [
+      "individual",
+      "apprehended",
+      "marijuana"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Dehiwala",
+    "description": "Individuals loitering near the ATM late at night.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "Pending",
+    "location": "Dehiwala",
+    "latitude": 6.841992381857797,
+    "longitude": 79.86581211059482,
+    "dateOfIncident": "2026-04-14T11:10:49.374Z",
+    "createdAt": "2026-04-15T01:10:49.374Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.2963221923981967,
+    "keywords": [
+      "individuals",
+      "loitering",
+      "night."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Traffic reported at Dehiwala",
+    "description": "Hit and run incident involving a motorcycle and a pedestrian.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Dehiwala",
+    "latitude": 6.844227292253275,
+    "longitude": 79.87346926603092,
+    "dateOfIncident": "2026-05-03T17:22:26.044Z",
+    "createdAt": "2026-05-04T13:22:26.044Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.20701046885833474,
+    "keywords": [
+      "incident",
+      "involving",
+      "motorcycle"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Large scale transport of illegal substances intercepted.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.948672986855138,
+    "longitude": 79.8750437979697,
+    "dateOfIncident": "2026-04-28T09:23:55.554Z",
+    "createdAt": "2026-04-28T22:23:55.554Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.7125684470248266,
+    "keywords": [
+      "transport",
+      "illegal",
+      "substances"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Unidentified vehicle parked outside the bank for several hours.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.948038404318804,
+    "longitude": 79.87216657598353,
+    "dateOfIncident": "2026-04-20T21:45:54.816Z",
+    "createdAt": "2026-04-21T15:45:54.816Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.6688918903877021,
+    "keywords": [
+      "unidentified",
+      "vehicle",
+      "parked"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Wellawatte",
+    "description": "Restraining order violation reported.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "Resolved",
+    "location": "Wellawatte",
+    "latitude": 6.872598920827831,
+    "longitude": 79.85551770251926,
+    "dateOfIncident": "2026-04-15T10:01:30.998Z",
+    "createdAt": "2026-04-16T21:01:30.998Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.6289102185407849,
+    "keywords": [
+      "restraining",
+      "violation",
+      "reported."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Domestic Violence reported at Moratuwa",
+    "description": "Ongoing dispute between spouses requiring police intervention.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Moratuwa",
+    "latitude": 6.7719770260145165,
+    "longitude": 79.8793326320289,
+    "dateOfIncident": "2026-04-27T01:42:12.973Z",
+    "createdAt": "2026-04-28T23:42:12.973Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.6112232293484026,
+    "keywords": [
+      "ongoing",
+      "dispute",
+      "between"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Domestic Violence reported at Maradana",
+    "description": "Ongoing dispute between spouses requiring police intervention.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Maradana",
+    "latitude": 6.922169803985118,
+    "longitude": 79.86598039461028,
+    "dateOfIncident": "2026-04-08T00:54:44.382Z",
+    "createdAt": "2026-04-09T06:54:44.382Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.5741829371309581,
+    "keywords": [
+      "ongoing",
+      "dispute",
+      "between"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Dehiwala",
+    "description": "Reports of someone trying to open car doors in the neighborhood.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Dehiwala",
+    "latitude": 6.839981410343951,
+    "longitude": 79.86595289347252,
+    "dateOfIncident": "2026-04-13T14:06:16.563Z",
+    "createdAt": "2026-04-14T05:06:16.563Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.4758287309823168,
+    "keywords": [
+      "reports",
+      "someone",
+      "trying"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Wellawatte",
+    "description": "Unidentified vehicle parked outside the bank for several hours.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Wellawatte",
+    "latitude": 6.872749890399331,
+    "longitude": 79.8626304565476,
+    "dateOfIncident": "2026-04-10T22:12:40.855Z",
+    "createdAt": "2026-04-11T12:12:40.855Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.10863394886555444,
+    "keywords": [
+      "unidentified",
+      "vehicle",
+      "parked"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Traffic reported at Moratuwa",
+    "description": "Severe traffic collision at the main intersection. Two injured.",
+    "category": "Traffic",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Moratuwa",
+    "latitude": 6.77662505192794,
+    "longitude": 79.8848397683092,
+    "dateOfIncident": "2026-04-15T22:14:14.091Z",
+    "createdAt": "2026-04-17T08:14:14.091Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.2609564830205843,
+    "keywords": [
+      "severe",
+      "traffic",
+      "collision"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Maradana",
+    "description": "Individuals loitering near the ATM late at night.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Maradana",
+    "latitude": 6.930954023463941,
+    "longitude": 79.8583201927932,
+    "dateOfIncident": "2026-04-27T10:43:17.372Z",
+    "createdAt": "2026-04-28T08:43:17.372Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.3084252223041062,
+    "keywords": [
+      "individuals",
+      "loitering",
+      "night."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.945357042253763,
+    "longitude": 79.87032673144844,
+    "dateOfIncident": "2026-04-07T07:31:56.456Z",
+    "createdAt": "2026-04-08T20:31:56.456Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.2691330172667345,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Bambalapitiya",
+    "description": "Unattended bag left at the bus terminal.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Bambalapitiya",
+    "latitude": 6.891214166841058,
+    "longitude": 79.85018959627318,
+    "dateOfIncident": "2026-04-16T17:50:25.463Z",
+    "createdAt": "2026-04-16T21:50:25.463Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.45562960037309597,
+    "keywords": [
+      "unattended",
+      "terminal."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Moratuwa",
+    "description": "Burglary at a local shop during the night. Cash register emptied.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Moratuwa",
+    "latitude": 6.776989614080696,
+    "longitude": 79.88225713303994,
+    "dateOfIncident": "2026-04-27T11:19:42.429Z",
+    "createdAt": "2026-04-29T11:19:42.429Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.20527242114763056,
+    "keywords": [
+      "burglary",
+      "during",
+      "night."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Maradana",
+    "description": "Raid conducted based on tip-off. Found suspected heroin packets.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Maradana",
+    "latitude": 6.926743095421317,
+    "longitude": 79.85908037469902,
+    "dateOfIncident": "2026-04-15T17:57:41.213Z",
+    "createdAt": "2026-04-16T18:57:41.213Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.5974396009811491,
+    "keywords": [
+      "conducted",
+      "tip-off.",
+      "suspected"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Wellawatte",
+    "description": "Domestic dispute escalated into physical violence.",
+    "category": "Assault",
+    "priority": "Critical",
+    "status": "Resolved",
+    "location": "Wellawatte",
+    "latitude": 6.871814624175452,
+    "longitude": 79.86227138933775,
+    "dateOfIncident": "2026-04-14T16:42:51.851Z",
+    "createdAt": "2026-04-16T16:42:51.851Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.6194047241237868,
+    "keywords": [
+      "domestic",
+      "dispute",
+      "escalated"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Domestic Violence reported at Moratuwa",
+    "description": "Victim came to the station with visible bruises.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Moratuwa",
+    "latitude": 6.776147324416057,
+    "longitude": 79.88461002422926,
+    "dateOfIncident": "2026-04-10T12:05:07.489Z",
+    "createdAt": "2026-04-11T19:05:07.489Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.5732272684530468,
+    "keywords": [
+      "victim",
+      "station",
+      "visible"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Bambalapitiya",
+    "description": "Reporting theft of a mobile phone near the bus stand.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Bambalapitiya",
+    "latitude": 6.887568145058718,
+    "longitude": 79.8560727361894,
+    "dateOfIncident": "2026-05-02T02:19:38.207Z",
+    "createdAt": "2026-05-03T06:19:38.207Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.25310049325578565,
+    "keywords": [
+      "reporting",
+      "mobile",
+      "stand."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Traffic reported at Dehiwala",
+    "description": "Reckless driving reported. Vehicle speeding through red lights.",
+    "category": "Traffic",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Dehiwala",
+    "latitude": 6.841455288207162,
+    "longitude": 79.86500151664333,
+    "dateOfIncident": "2026-04-10T15:06:08.423Z",
+    "createdAt": "2026-04-11T04:06:08.423Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.0911053572560947,
+    "keywords": [
+      "reckless",
+      "driving",
+      "reported."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Pettah",
+    "description": "Raid conducted based on tip-off. Found suspected heroin packets.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Pettah",
+    "latitude": 6.936709909282179,
+    "longitude": 79.85138336584725,
+    "dateOfIncident": "2026-04-08T11:03:30.804Z",
+    "createdAt": "2026-04-08T22:03:30.804Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.8895960831741887,
+    "keywords": [
+      "conducted",
+      "tip-off.",
+      "suspected"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Unattended bag left at the bus terminal.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.94132917085658,
+    "longitude": 79.87574086950072,
+    "dateOfIncident": "2026-04-12T20:13:56.659Z",
+    "createdAt": "2026-04-14T07:13:56.659Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.5875708270040718,
+    "keywords": [
+      "unattended",
+      "terminal."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Assault reported at Pettah",
+    "description": "Group fight reported near the junction.",
+    "category": "Assault",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Pettah",
+    "latitude": 6.93629766487453,
+    "longitude": 79.85710344744444,
+    "dateOfIncident": "2026-05-04T17:01:37.788Z",
+    "createdAt": "2026-05-05T15:01:37.788Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.8793175569590894,
+    "keywords": [
+      "reported",
+      "junction."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Pettah",
+    "description": "Unattended bag left at the bus terminal.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Pettah",
+    "latitude": 6.9374760977123815,
+    "longitude": 79.8513114332359,
+    "dateOfIncident": "2026-05-01T13:56:35.096Z",
+    "createdAt": "2026-05-02T02:56:35.096Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.5837428393495725,
+    "keywords": [
+      "unattended",
+      "terminal."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Assault reported at Grandpass",
+    "description": "Group fight reported near the junction.",
+    "category": "Assault",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.941370033887422,
+    "longitude": 79.86764576313617,
+    "dateOfIncident": "2026-04-12T23:09:54.563Z",
+    "createdAt": "2026-04-13T05:09:54.563Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.6849185740630352,
+    "keywords": [
+      "reported",
+      "junction."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Moratuwa",
+    "description": "Vehicle parked illegally blocking the main road.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Moratuwa",
+    "latitude": 6.769620300246916,
+    "longitude": 79.88399770634061,
+    "dateOfIncident": "2026-04-27T23:40:32.941Z",
+    "createdAt": "2026-04-29T12:40:32.941Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.11335026923958502,
+    "keywords": [
+      "vehicle",
+      "parked",
+      "illegally"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Restraining order violation reported.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.9480659629910315,
+    "longitude": 79.87052843947473,
+    "dateOfIncident": "2026-04-25T05:25:02.198Z",
+    "createdAt": "2026-04-25T11:25:02.198Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.9467641832852951,
+    "keywords": [
+      "restraining",
+      "violation",
+      "reported."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Restraining order violation reported.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.941925477450122,
+    "longitude": 79.86772218046553,
+    "dateOfIncident": "2026-04-07T02:11:09.103Z",
+    "createdAt": "2026-04-07T03:11:09.103Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.6756421325549313,
+    "keywords": [
+      "restraining",
+      "violation",
+      "reported."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Wellawatte",
+    "description": "Suspect broke into a parked vehicle and stole a laptop bag.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Pending",
+    "location": "Wellawatte",
+    "latitude": 6.877957371292169,
+    "longitude": 79.86110719668405,
+    "dateOfIncident": "2026-05-03T13:48:14.862Z",
+    "createdAt": "2026-05-04T10:48:14.862Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.1911785308733409,
+    "keywords": [
+      "suspect",
+      "parked",
+      "vehicle"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Large scale transport of illegal substances intercepted.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.9495865852045124,
+    "longitude": 79.87436293163908,
+    "dateOfIncident": "2026-04-16T21:17:13.906Z",
+    "createdAt": "2026-04-17T01:17:13.906Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.6380441770314799,
+    "keywords": [
+      "transport",
+      "illegal",
+      "substances"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Dehiwala",
+    "description": "Neighbors reported loud screaming and sounds of struggle.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Dehiwala",
+    "latitude": 6.842934233504982,
+    "longitude": 79.86572482410394,
+    "dateOfIncident": "2026-05-05T19:21:00.910Z",
+    "createdAt": "2026-05-06T21:21:00.910Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.4246190070299694,
+    "keywords": [
+      "neighbors",
+      "reported",
+      "screaming"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Domestic Violence reported at Moratuwa",
+    "description": "Victim came to the station with visible bruises.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Moratuwa",
+    "latitude": 6.769922895703236,
+    "longitude": 79.88116265056094,
+    "dateOfIncident": "2026-04-22T19:32:30.935Z",
+    "createdAt": "2026-04-24T15:32:30.935Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.3393344809699879,
+    "keywords": [
+      "victim",
+      "station",
+      "visible"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Moratuwa",
+    "description": "Unidentified vehicle parked outside the bank for several hours.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Moratuwa",
+    "latitude": 6.771627758362441,
+    "longitude": 79.87693921127818,
+    "dateOfIncident": "2026-04-29T14:28:40.703Z",
+    "createdAt": "2026-05-01T11:28:40.703Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.14814301080720227,
+    "keywords": [
+      "unidentified",
+      "vehicle",
+      "parked"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Moratuwa",
+    "description": "Physical altercation between two individuals outside a pub.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Moratuwa",
+    "latitude": 6.768779851399357,
+    "longitude": 79.88189258277414,
+    "dateOfIncident": "2026-04-24T16:58:39.719Z",
+    "createdAt": "2026-04-25T05:58:39.719Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.5419564168296422,
+    "keywords": [
+      "physical",
+      "altercation",
+      "between"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.948279949185554,
+    "longitude": 79.86844064898236,
+    "dateOfIncident": "2026-05-02T02:33:40.988Z",
+    "createdAt": "2026-05-02T06:33:40.988Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.5711054825973318,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Unidentified vehicle parked outside the bank for several hours.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.947166849872313,
+    "longitude": 79.86882151709929,
+    "dateOfIncident": "2026-04-22T19:09:54.355Z",
+    "createdAt": "2026-04-23T04:09:54.355Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.5418123638558145,
+    "keywords": [
+      "unidentified",
+      "vehicle",
+      "parked"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Assault reported at Grandpass",
+    "description": "Group fight reported near the junction.",
+    "category": "Assault",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.946078505142664,
+    "longitude": 79.8691977592521,
+    "dateOfIncident": "2026-04-28T20:14:43.074Z",
+    "createdAt": "2026-04-29T17:14:43.074Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.8682765465208484,
+    "keywords": [
+      "reported",
+      "junction."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Pettah",
+    "description": "Raid conducted based on tip-off. Found suspected heroin packets.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Pettah",
+    "latitude": 6.941734188064647,
+    "longitude": 79.8577649044221,
+    "dateOfIncident": "2026-04-15T20:50:04.925Z",
+    "createdAt": "2026-04-17T00:50:04.925Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.6092900945084778,
+    "keywords": [
+      "conducted",
+      "tip-off.",
+      "suspected"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Grandpass",
+    "description": "Vehicle parked illegally blocking the main road.",
+    "category": "Traffic",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.941995095804696,
+    "longitude": 79.87020081824312,
+    "dateOfIncident": "2026-04-06T18:01:49.613Z",
+    "createdAt": "2026-04-07T00:01:49.613Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.5771980393756355,
+    "keywords": [
+      "vehicle",
+      "parked",
+      "illegally"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Dehiwala",
+    "description": "Vehicle parked illegally blocking the main road.",
+    "category": "Traffic",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Dehiwala",
+    "latitude": 6.843697201752762,
+    "longitude": 79.87284327205656,
+    "dateOfIncident": "2026-04-13T00:27:48.280Z",
+    "createdAt": "2026-04-13T11:27:48.280Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.19124444500345128,
+    "keywords": [
+      "vehicle",
+      "parked",
+      "illegally"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Moratuwa",
+    "description": "Suspect broke into a parked vehicle and stole a laptop bag.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Moratuwa",
+    "latitude": 6.7704093576201485,
+    "longitude": 79.88346886162755,
+    "dateOfIncident": "2026-04-27T18:14:17.585Z",
+    "createdAt": "2026-04-28T16:14:17.585Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.20566002621846924,
+    "keywords": [
+      "suspect",
+      "parked",
+      "vehicle"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Individuals loitering near the ATM late at night.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.9426705370679,
+    "longitude": 79.86885083567871,
+    "dateOfIncident": "2026-04-08T03:20:13.141Z",
+    "createdAt": "2026-04-09T02:20:13.141Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.3427946413487219,
+    "keywords": [
+      "individuals",
+      "loitering",
+      "night."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Bambalapitiya",
+    "description": "Neighbors reported loud screaming and sounds of struggle.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Bambalapitiya",
+    "latitude": 6.889817103332603,
+    "longitude": 79.85607326312828,
+    "dateOfIncident": "2026-05-04T23:57:31.538Z",
+    "createdAt": "2026-05-06T01:57:31.538Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.7893733036514217,
+    "keywords": [
+      "neighbors",
+      "reported",
+      "screaming"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Moratuwa",
+    "description": "Individual apprehended with marijuana near the school zone.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Moratuwa",
+    "latitude": 6.7779922270356865,
+    "longitude": 79.87989211859126,
+    "dateOfIncident": "2026-04-08T16:32:16.843Z",
+    "createdAt": "2026-04-09T16:32:16.843Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.8861606890975476,
+    "keywords": [
+      "individual",
+      "apprehended",
+      "marijuana"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Bambalapitiya",
+    "description": "Individual apprehended with marijuana near the school zone.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Bambalapitiya",
+    "latitude": 6.889901504475419,
+    "longitude": 79.85014681838031,
+    "dateOfIncident": "2026-04-23T16:04:51.001Z",
+    "createdAt": "2026-04-25T11:04:51.001Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.47709431889958476,
+    "keywords": [
+      "individual",
+      "apprehended",
+      "marijuana"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Traffic reported at Bambalapitiya",
+    "description": "Severe traffic collision at the main intersection. Two injured.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Bambalapitiya",
+    "latitude": 6.895482023321439,
+    "longitude": 79.85812044276722,
+    "dateOfIncident": "2026-05-04T15:11:01.883Z",
+    "createdAt": "2026-05-05T16:11:01.883Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.18526006241339854,
+    "keywords": [
+      "severe",
+      "traffic",
+      "collision"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Burglary at a local shop during the night. Cash register emptied.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.949378513696192,
+    "longitude": 79.87555157109101,
+    "dateOfIncident": "2026-05-03T13:37:24.559Z",
+    "createdAt": "2026-05-03T23:37:24.559Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.3597586177850494,
+    "keywords": [
+      "burglary",
+      "during",
+      "night."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Dehiwala",
+    "description": "Neighbors reported loud screaming and sounds of struggle.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "Resolved",
+    "location": "Dehiwala",
+    "latitude": 6.8427039908740745,
+    "longitude": 79.87370708409088,
+    "dateOfIncident": "2026-04-08T00:41:02.591Z",
+    "createdAt": "2026-04-08T14:41:02.591Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.6451243763945695,
+    "keywords": [
+      "neighbors",
+      "reported",
+      "screaming"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Restraining order violation reported.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.948080183757223,
+    "longitude": 79.86938842107622,
+    "dateOfIncident": "2026-04-21T11:28:17.369Z",
+    "createdAt": "2026-04-22T16:28:17.369Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.5498408632159599,
+    "keywords": [
+      "restraining",
+      "violation",
+      "reported."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Dehiwala",
+    "description": "Reckless driving reported. Vehicle speeding through red lights.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Dehiwala",
+    "latitude": 6.842435179277759,
+    "longitude": 79.87016057775712,
+    "dateOfIncident": "2026-04-29T09:51:28.422Z",
+    "createdAt": "2026-04-30T17:51:28.422Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.13629536846107126,
+    "keywords": [
+      "reckless",
+      "driving",
+      "reported."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Moratuwa",
+    "description": "Victim assaulted with a blunt object. Sustained head injuries.",
+    "category": "Assault",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Moratuwa",
+    "latitude": 6.77615122949674,
+    "longitude": 79.88574405123377,
+    "dateOfIncident": "2026-04-16T21:41:13.424Z",
+    "createdAt": "2026-04-17T23:41:13.424Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.48891484572645905,
+    "keywords": [
+      "victim",
+      "assaulted",
+      "object."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Bambalapitiya",
+    "description": "Raid conducted based on tip-off. Found suspected heroin packets.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Bambalapitiya",
+    "latitude": 6.893599467002436,
+    "longitude": 79.85612632259338,
+    "dateOfIncident": "2026-04-28T01:33:18.282Z",
+    "createdAt": "2026-04-29T15:33:18.282Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.6019444079812855,
+    "keywords": [
+      "conducted",
+      "tip-off.",
+      "suspected"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Dehiwala",
+    "description": "Large scale transport of illegal substances intercepted.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Dehiwala",
+    "latitude": 6.841768814362155,
+    "longitude": 79.8650860055424,
+    "dateOfIncident": "2026-04-17T01:48:06.855Z",
+    "createdAt": "2026-04-18T15:48:06.855Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.690522390318679,
+    "keywords": [
+      "transport",
+      "illegal",
+      "substances"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Wellawatte",
+    "description": "Unattended bag left at the bus terminal.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Wellawatte",
+    "latitude": 6.8736609221362945,
+    "longitude": 79.86544192730449,
+    "dateOfIncident": "2026-04-25T14:04:43.850Z",
+    "createdAt": "2026-04-26T21:04:43.850Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.06961355370165223,
+    "keywords": [
+      "unattended",
+      "terminal."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Large scale transport of illegal substances intercepted.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.9502648756458205,
+    "longitude": 79.87503519288214,
+    "dateOfIncident": "2026-05-03T22:46:18.808Z",
+    "createdAt": "2026-05-04T03:46:18.808Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.99,
+    "keywords": [
+      "transport",
+      "illegal",
+      "substances"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.947931955832835,
+    "longitude": 79.87409015009045,
+    "dateOfIncident": "2026-04-24T01:29:41.497Z",
+    "createdAt": "2026-04-24T17:29:41.497Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.3602720313858749,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Moratuwa",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Moratuwa",
+    "latitude": 6.773120156689815,
+    "longitude": 79.88347009385257,
+    "dateOfIncident": "2026-04-20T21:07:54.137Z",
+    "createdAt": "2026-04-21T00:07:54.137Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.24936078080455215,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.950067305345926,
+    "longitude": 79.86876195391953,
+    "dateOfIncident": "2026-05-01T05:49:42.515Z",
+    "createdAt": "2026-05-02T07:49:42.515Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.5171546230305866,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Neighbors reported loud screaming and sounds of struggle.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.948234180289423,
+    "longitude": 79.87167633316975,
+    "dateOfIncident": "2026-04-08T07:16:14.474Z",
+    "createdAt": "2026-04-09T23:16:14.474Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.9432698251336449,
+    "keywords": [
+      "neighbors",
+      "reported",
+      "screaming"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Suspect broke into a parked vehicle and stole a laptop bag.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.94961736228054,
+    "longitude": 79.87385274866261,
+    "dateOfIncident": "2026-04-24T13:42:57.999Z",
+    "createdAt": "2026-04-25T10:42:57.999Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.5278858946549201,
+    "keywords": [
+      "suspect",
+      "parked",
+      "vehicle"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Assault reported at Grandpass",
+    "description": "Victim assaulted with a blunt object. Sustained head injuries.",
+    "category": "Assault",
+    "priority": "Critical",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.943914172606511,
+    "longitude": 79.87147918814314,
+    "dateOfIncident": "2026-04-07T17:12:55.537Z",
+    "createdAt": "2026-04-09T03:12:55.537Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.99,
+    "keywords": [
+      "victim",
+      "assaulted",
+      "object."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Dehiwala",
+    "description": "Reports of someone trying to open car doors in the neighborhood.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Dehiwala",
+    "latitude": 6.8376317901844565,
+    "longitude": 79.8698241717071,
+    "dateOfIncident": "2026-04-08T09:48:50.820Z",
+    "createdAt": "2026-04-09T07:48:50.820Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.0686954086670355,
+    "keywords": [
+      "reports",
+      "someone",
+      "trying"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Wellawatte",
+    "description": "Physical altercation between two individuals outside a pub.",
+    "category": "Assault",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Wellawatte",
+    "latitude": 6.874991152920441,
+    "longitude": 79.85791243309491,
+    "dateOfIncident": "2026-04-30T16:55:06.171Z",
+    "createdAt": "2026-05-01T17:55:06.171Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.8763208791134244,
+    "keywords": [
+      "physical",
+      "altercation",
+      "between"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Moratuwa",
+    "description": "Raid conducted based on tip-off. Found suspected heroin packets.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Moratuwa",
+    "latitude": 6.773742214771449,
+    "longitude": 79.88087909418265,
+    "dateOfIncident": "2026-04-21T17:39:42.537Z",
+    "createdAt": "2026-04-22T00:39:42.537Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.8130811327778371,
+    "keywords": [
+      "conducted",
+      "tip-off.",
+      "suspected"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Bambalapitiya",
+    "description": "Suspect broke into a parked vehicle and stole a laptop bag.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Bambalapitiya",
+    "latitude": 6.888159078362018,
+    "longitude": 79.85711683540114,
+    "dateOfIncident": "2026-04-27T10:17:58.884Z",
+    "createdAt": "2026-04-27T16:17:58.884Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.3090712276263946,
+    "keywords": [
+      "suspect",
+      "parked",
+      "vehicle"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Unidentified vehicle parked outside the bank for several hours.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.941681403140534,
+    "longitude": 79.86723108347415,
+    "dateOfIncident": "2026-04-29T05:23:58.380Z",
+    "createdAt": "2026-04-29T06:23:58.380Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.2026467771153339,
+    "keywords": [
+      "unidentified",
+      "vehicle",
+      "parked"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Individual apprehended with marijuana near the school zone.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.946618779319135,
+    "longitude": 79.86668283897116,
+    "dateOfIncident": "2026-04-07T07:56:26.697Z",
+    "createdAt": "2026-04-07T08:56:26.697Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.5371008409747664,
+    "keywords": [
+      "individual",
+      "apprehended",
+      "marijuana"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Ongoing dispute between spouses requiring police intervention.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.950347382877876,
+    "longitude": 79.87504188737658,
+    "dateOfIncident": "2026-04-20T08:43:32.392Z",
+    "createdAt": "2026-04-20T16:43:32.392Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.5421570500065696,
+    "keywords": [
+      "ongoing",
+      "dispute",
+      "between"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Dehiwala",
+    "description": "Hit and run incident involving a motorcycle and a pedestrian.",
+    "category": "Traffic",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Dehiwala",
+    "latitude": 6.845789243866777,
+    "longitude": 79.87340955572073,
+    "dateOfIncident": "2026-04-07T07:31:23.660Z",
+    "createdAt": "2026-04-08T23:31:23.660Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.2616288267954521,
+    "keywords": [
+      "incident",
+      "involving",
+      "motorcycle"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Grandpass",
+    "description": "Group fight reported near the junction.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.94575142669052,
+    "longitude": 79.87545096914123,
+    "dateOfIncident": "2026-04-14T23:54:54.617Z",
+    "createdAt": "2026-04-16T23:54:54.617Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.675858244362997,
+    "keywords": [
+      "reported",
+      "junction."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Moratuwa",
+    "description": "Reckless driving reported. Vehicle speeding through red lights.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Moratuwa",
+    "latitude": 6.77667425018835,
+    "longitude": 79.88560649941057,
+    "dateOfIncident": "2026-05-03T09:21:07.349Z",
+    "createdAt": "2026-05-03T20:21:07.349Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.42527671850284654,
+    "keywords": [
+      "reckless",
+      "driving",
+      "reported."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Moratuwa",
+    "description": "Unattended bag left at the bus terminal.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Moratuwa",
+    "latitude": 6.774990227178234,
+    "longitude": 79.88529089948263,
+    "dateOfIncident": "2026-04-21T18:17:14.872Z",
+    "createdAt": "2026-04-22T14:17:14.872Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.3014900897860515,
+    "keywords": [
+      "unattended",
+      "terminal."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Dehiwala",
+    "description": "Individuals loitering near the ATM late at night.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Dehiwala",
+    "latitude": 6.845805810657519,
+    "longitude": 79.87306546033486,
+    "dateOfIncident": "2026-04-17T21:54:21.520Z",
+    "createdAt": "2026-04-19T00:54:21.520Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.1875049951379424,
+    "keywords": [
+      "individuals",
+      "loitering",
+      "night."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Moratuwa",
+    "description": "Physical altercation between two individuals outside a pub.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Moratuwa",
+    "latitude": 6.773380357234462,
+    "longitude": 79.88149163260799,
+    "dateOfIncident": "2026-05-03T21:48:48.665Z",
+    "createdAt": "2026-05-04T19:48:48.665Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.5126333853031173,
+    "keywords": [
+      "physical",
+      "altercation",
+      "between"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Pettah",
+    "description": "Physical altercation between two individuals outside a pub.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Pettah",
+    "latitude": 6.940198588176429,
+    "longitude": 79.85730944901293,
+    "dateOfIncident": "2026-04-10T18:27:42.832Z",
+    "createdAt": "2026-04-11T21:27:42.832Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.54046679386189,
+    "keywords": [
+      "physical",
+      "altercation",
+      "between"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Burglary at a local shop during the night. Cash register emptied.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.94595177712304,
+    "longitude": 79.87103012516972,
+    "dateOfIncident": "2026-04-14T05:03:55.254Z",
+    "createdAt": "2026-04-14T23:03:55.254Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.26396257875313894,
+    "keywords": [
+      "burglary",
+      "during",
+      "night."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Grandpass",
+    "description": "Hit and run incident involving a motorcycle and a pedestrian.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.9489108441903475,
+    "longitude": 79.8703136121981,
+    "dateOfIncident": "2026-04-13T03:45:13.434Z",
+    "createdAt": "2026-04-13T18:45:13.434Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.3516849465201773,
+    "keywords": [
+      "incident",
+      "involving",
+      "motorcycle"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Pettah",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Pettah",
+    "latitude": 6.937715460508408,
+    "longitude": 79.85470011656913,
+    "dateOfIncident": "2026-04-24T13:31:25.476Z",
+    "createdAt": "2026-04-24T20:31:25.476Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.504820033591417,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Reporting theft of a mobile phone near the bus stand.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.949671737205467,
+    "longitude": 79.86939283037546,
+    "dateOfIncident": "2026-04-25T18:22:51.222Z",
+    "createdAt": "2026-04-26T11:22:51.222Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.49532956837431436,
+    "keywords": [
+      "reporting",
+      "mobile",
+      "stand."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Bambalapitiya",
+    "description": "Raid conducted based on tip-off. Found suspected heroin packets.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Bambalapitiya",
+    "latitude": 6.894514415599111,
+    "longitude": 79.8542864546523,
+    "dateOfIncident": "2026-04-28T19:24:33.846Z",
+    "createdAt": "2026-04-29T07:24:33.846Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.8815632244873266,
+    "keywords": [
+      "conducted",
+      "tip-off.",
+      "suspected"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Dehiwala",
+    "description": "Reports of someone trying to open car doors in the neighborhood.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Dehiwala",
+    "latitude": 6.83894917834042,
+    "longitude": 79.8715241331229,
+    "dateOfIncident": "2026-04-13T05:34:32.803Z",
+    "createdAt": "2026-04-13T09:34:32.803Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.11521974472925645,
+    "keywords": [
+      "reports",
+      "someone",
+      "trying"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Raid conducted based on tip-off. Found suspected heroin packets.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.944540252413388,
+    "longitude": 79.87277720118234,
+    "dateOfIncident": "2026-04-20T16:15:18.198Z",
+    "createdAt": "2026-04-21T05:15:18.198Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.9218789765076005,
+    "keywords": [
+      "conducted",
+      "tip-off.",
+      "suspected"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Moratuwa",
+    "description": "Suspicious individuals exchanging small packages in an alley.",
+    "category": "Narcotics",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Moratuwa",
+    "latitude": 6.775227914304839,
+    "longitude": 79.87673561857369,
+    "dateOfIncident": "2026-04-21T05:44:36.407Z",
+    "createdAt": "2026-04-22T10:44:36.407Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.8384132260657989,
+    "keywords": [
+      "suspicious",
+      "individuals",
+      "exchanging"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Moratuwa",
+    "description": "Large scale transport of illegal substances intercepted.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Moratuwa",
+    "latitude": 6.772250563191465,
+    "longitude": 79.88396015711164,
+    "dateOfIncident": "2026-04-18T08:53:46.203Z",
+    "createdAt": "2026-04-19T20:53:46.203Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.3680395678332959,
+    "keywords": [
+      "transport",
+      "illegal",
+      "substances"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Traffic reported at Grandpass",
+    "description": "Vehicle parked illegally blocking the main road.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.945607109114524,
+    "longitude": 79.8759224749011,
+    "dateOfIncident": "2026-05-04T09:04:19.770Z",
+    "createdAt": "2026-05-05T13:04:19.770Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.5632485407768919,
+    "keywords": [
+      "vehicle",
+      "parked",
+      "illegally"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Bambalapitiya",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Bambalapitiya",
+    "latitude": 6.891952304674177,
+    "longitude": 79.85503980303723,
+    "dateOfIncident": "2026-04-23T20:46:51.523Z",
+    "createdAt": "2026-04-24T02:46:51.523Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.13468315597264557,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Wellawatte",
+    "description": "Group fight reported near the junction.",
+    "category": "Assault",
+    "priority": "Critical",
+    "status": "Resolved",
+    "location": "Wellawatte",
+    "latitude": 6.870164160900847,
+    "longitude": 79.85839277973432,
+    "dateOfIncident": "2026-05-05T21:15:16.851Z",
+    "createdAt": "2026-05-07T10:15:16.851Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.437008848877685,
+    "keywords": [
+      "reported",
+      "junction."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Suspicious individuals exchanging small packages in an alley.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.947524469255867,
+    "longitude": 79.86876072129762,
+    "dateOfIncident": "2026-04-29T00:22:29.368Z",
+    "createdAt": "2026-04-30T00:22:29.368Z",
+    "officerAssigned": "Insp. Ratnayake",
+    "riskScore": 0.5764106139317245,
+    "keywords": [
+      "suspicious",
+      "individuals",
+      "exchanging"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Suspicious Activity reported at Pettah",
+    "description": "Unattended bag left at the bus terminal.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Pettah",
+    "latitude": 6.943517456179642,
+    "longitude": 79.85277684569832,
+    "dateOfIncident": "2026-04-21T07:28:22.814Z",
+    "createdAt": "2026-04-23T07:28:22.814Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.5709162582857525,
+    "keywords": [
+      "unattended",
+      "terminal."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Wellawatte",
+    "description": "Suspect broke into a parked vehicle and stole a laptop bag.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Wellawatte",
+    "latitude": 6.876816626503626,
+    "longitude": 79.86514319123694,
+    "dateOfIncident": "2026-04-30T20:25:41.781Z",
+    "createdAt": "2026-05-02T15:25:41.781Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.2815342316741851,
+    "keywords": [
+      "suspect",
+      "parked",
+      "vehicle"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Unattended bag left at the bus terminal.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.9458336750275675,
+    "longitude": 79.87249641393556,
+    "dateOfIncident": "2026-04-24T07:57:23.320Z",
+    "createdAt": "2026-04-25T04:57:23.320Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.6445365245821204,
+    "keywords": [
+      "unattended",
+      "terminal."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Moratuwa",
+    "description": "Suspect broke into a parked vehicle and stole a laptop bag.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Pending",
+    "location": "Moratuwa",
+    "latitude": 6.774522132839616,
+    "longitude": 79.87836061122117,
+    "dateOfIncident": "2026-05-06T02:37:14.407Z",
+    "createdAt": "2026-05-07T11:37:14.407Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.006898637072788039,
+    "keywords": [
+      "suspect",
+      "parked",
+      "vehicle"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Theft reported at Maradana",
+    "description": "Reporting theft of a mobile phone near the bus stand.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "In Progress",
+    "location": "Maradana",
+    "latitude": 6.92482144836945,
+    "longitude": 79.85893267815166,
+    "dateOfIncident": "2026-04-20T05:27:08.296Z",
+    "createdAt": "2026-04-22T04:27:08.296Z",
+    "officerAssigned": "OFC. Bandara",
+    "riskScore": 0.2701937236385853,
+    "keywords": [
+      "reporting",
+      "mobile",
+      "stand."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Wellawatte",
+    "description": "Unattended bag left at the bus terminal.",
+    "category": "Suspicious Activity",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Wellawatte",
+    "latitude": 6.877600235945522,
+    "longitude": 79.85913382477338,
+    "dateOfIncident": "2026-04-08T21:33:24.046Z",
+    "createdAt": "2026-04-09T19:33:24.046Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.39987786738862474,
+    "keywords": [
+      "unattended",
+      "terminal."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Traffic reported at Grandpass",
+    "description": "Vehicle parked illegally blocking the main road.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.9432589317956115,
+    "longitude": 79.87312209489274,
+    "dateOfIncident": "2026-05-01T18:00:37.383Z",
+    "createdAt": "2026-05-02T09:00:37.383Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.6651555588435667,
+    "keywords": [
+      "vehicle",
+      "parked",
+      "illegally"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Moratuwa",
+    "description": "Restraining order violation reported.",
+    "category": "Domestic Violence",
+    "priority": "High",
+    "status": "In Progress",
+    "location": "Moratuwa",
+    "latitude": 6.772225066442796,
+    "longitude": 79.88244042968326,
+    "dateOfIncident": "2026-04-24T23:14:23.656Z",
+    "createdAt": "2026-04-25T02:14:23.656Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.5743250763479464,
+    "keywords": [
+      "restraining",
+      "violation",
+      "reported."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Assault reported at Grandpass",
+    "description": "Physical altercation between two individuals outside a pub.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.947733527541498,
+    "longitude": 79.87435132569945,
+    "dateOfIncident": "2026-04-27T16:45:57.421Z",
+    "createdAt": "2026-04-29T14:45:57.421Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.5225426611864488,
+    "keywords": [
+      "physical",
+      "altercation",
+      "between"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Assault reported at Grandpass",
+    "description": "Victim assaulted with a blunt object. Sustained head injuries.",
+    "category": "Assault",
+    "priority": "Critical",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.946320122658596,
+    "longitude": 79.86769510824257,
+    "dateOfIncident": "2026-04-28T20:38:38.391Z",
+    "createdAt": "2026-04-29T21:38:38.391Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.8118943681339696,
+    "keywords": [
+      "victim",
+      "assaulted",
+      "object."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Assault reported at Wellawatte",
+    "description": "Domestic dispute escalated into physical violence.",
+    "category": "Assault",
+    "priority": "Critical",
+    "status": "Pending",
+    "location": "Wellawatte",
+    "latitude": 6.87430375936906,
+    "longitude": 79.86149261054321,
+    "dateOfIncident": "2026-04-24T21:38:14.000Z",
+    "createdAt": "2026-04-25T16:38:14.000Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.5038944229666925,
+    "keywords": [
+      "domestic",
+      "dispute",
+      "escalated"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Traffic reported at Moratuwa",
+    "description": "Hit and run incident involving a motorcycle and a pedestrian.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Moratuwa",
+    "latitude": 6.771241361594213,
+    "longitude": 79.88224643853366,
+    "dateOfIncident": "2026-04-18T21:24:11.652Z",
+    "createdAt": "2026-04-20T11:24:11.652Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.14955485802608293,
+    "keywords": [
+      "incident",
+      "involving",
+      "motorcycle"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Traffic reported at Grandpass",
+    "description": "Hit and run incident involving a motorcycle and a pedestrian.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.943868651038284,
+    "longitude": 79.86696944135322,
+    "dateOfIncident": "2026-04-09T11:52:53.919Z",
+    "createdAt": "2026-04-10T15:52:53.919Z",
+    "officerAssigned": "OFC. Fernando",
+    "riskScore": 0.3293478674752622,
+    "keywords": [
+      "incident",
+      "involving",
+      "motorcycle"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Bambalapitiya",
+    "description": "Suspicious individuals exchanging small packages in an alley.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Bambalapitiya",
+    "latitude": 6.888941525180773,
+    "longitude": 79.85445965519088,
+    "dateOfIncident": "2026-04-09T16:46:39.729Z",
+    "createdAt": "2026-04-09T18:46:39.729Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.5856074944792085,
+    "keywords": [
+      "suspicious",
+      "individuals",
+      "exchanging"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Narcotics reported at Grandpass",
+    "description": "Large scale transport of illegal substances intercepted.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.948695446619314,
+    "longitude": 79.8757300243255,
+    "dateOfIncident": "2026-04-12T08:52:19.510Z",
+    "createdAt": "2026-04-13T19:52:19.510Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.8529725203130736,
+    "keywords": [
+      "transport",
+      "illegal",
+      "substances"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "In Progress",
+    "location": "Grandpass",
+    "latitude": 6.9482488498024235,
+    "longitude": 79.87118621059474,
+    "dateOfIncident": "2026-04-26T23:08:04.248Z",
+    "createdAt": "2026-04-27T01:08:04.248Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.27956741669324675,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Domestic Violence reported at Grandpass",
+    "description": "Neighbors reported loud screaming and sounds of struggle.",
+    "category": "Domestic Violence",
+    "priority": "Critical",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.9444199193320735,
+    "longitude": 79.8666494160055,
+    "dateOfIncident": "2026-04-14T12:53:10.963Z",
+    "createdAt": "2026-04-16T04:53:10.963Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.99,
+    "keywords": [
+      "neighbors",
+      "reported",
+      "screaming"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Assault reported at Grandpass",
+    "description": "Physical altercation between two individuals outside a pub.",
+    "category": "Assault",
+    "priority": "High",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.947563711442802,
+    "longitude": 79.87491151377135,
+    "dateOfIncident": "2026-04-06T16:01:48.332Z",
+    "createdAt": "2026-04-07T18:01:48.332Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.9844893718216612,
+    "keywords": [
+      "physical",
+      "altercation",
+      "between"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Maradana",
+    "description": "Reckless driving reported. Vehicle speeding through red lights.",
+    "category": "Traffic",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Maradana",
+    "latitude": 6.9269605265938985,
+    "longitude": 79.86011725061334,
+    "dateOfIncident": "2026-04-25T01:51:26.625Z",
+    "createdAt": "2026-04-27T00:51:26.625Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.3240466586460595,
+    "keywords": [
+      "reckless",
+      "driving",
+      "reported."
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Traffic reported at Grandpass",
+    "description": "Reckless driving reported. Vehicle speeding through red lights.",
+    "category": "Traffic",
+    "priority": "Low",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.949327589304603,
+    "longitude": 79.86938297184561,
+    "dateOfIncident": "2026-04-10T19:31:59.718Z",
+    "createdAt": "2026-04-11T08:31:59.718Z",
+    "officerAssigned": "Insp. Silva",
+    "riskScore": 0.36666912261549783,
+    "keywords": [
+      "reckless",
+      "driving",
+      "reported."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Narcotics reported at Wellawatte",
+    "description": "Individual apprehended with marijuana near the school zone.",
+    "category": "Narcotics",
+    "priority": "High",
+    "status": "Resolved",
+    "location": "Wellawatte",
+    "latitude": 6.8711577817269704,
+    "longitude": 79.86290528727618,
+    "dateOfIncident": "2026-04-16T21:44:00.139Z",
+    "createdAt": "2026-04-17T05:44:00.139Z",
+    "officerAssigned": "Sgt. Kumara",
+    "riskScore": 0.7453639647218238,
+    "keywords": [
+      "individual",
+      "apprehended",
+      "marijuana"
+    ],
+    "isHotspot": false
+  },
+  {
+    "title": "Suspicious Activity reported at Grandpass",
+    "description": "Reports of someone trying to open car doors in the neighborhood.",
+    "category": "Suspicious Activity",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.944574761010234,
+    "longitude": 79.86715098090536,
+    "dateOfIncident": "2026-04-21T19:06:54.300Z",
+    "createdAt": "2026-04-21T22:06:54.300Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.5717008659198455,
+    "keywords": [
+      "reports",
+      "someone",
+      "trying"
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Pettah",
+    "description": "Gold chain snatched from a pedestrian.",
+    "category": "Theft",
+    "priority": "Medium",
+    "status": "Pending",
+    "location": "Pettah",
+    "latitude": 6.935708999535108,
+    "longitude": 79.85751603367176,
+    "dateOfIncident": "2026-04-09T05:58:49.374Z",
+    "createdAt": "2026-04-09T15:58:49.374Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.6590155440617596,
+    "keywords": [
+      "snatched",
+      "pedestrian."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Theft reported at Grandpass",
+    "description": "Burglary at a local shop during the night. Cash register emptied.",
+    "category": "Theft",
+    "priority": "Low",
+    "status": "Pending",
+    "location": "Grandpass",
+    "latitude": 6.943927106979718,
+    "longitude": 79.87469409172476,
+    "dateOfIncident": "2026-04-29T13:42:45.940Z",
+    "createdAt": "2026-05-01T05:42:45.940Z",
+    "officerAssigned": "OFC. Jayasuriya",
+    "riskScore": 0.20516587226398592,
+    "keywords": [
+      "burglary",
+      "during",
+      "night."
+    ],
+    "isHotspot": true
+  },
+  {
+    "title": "Traffic reported at Grandpass",
+    "description": "Vehicle parked illegally blocking the main road.",
+    "category": "Traffic",
+    "priority": "Medium",
+    "status": "Resolved",
+    "location": "Grandpass",
+    "latitude": 6.946195029032969,
+    "longitude": 79.87428769298262,
+    "dateOfIncident": "2026-04-30T23:55:47.814Z",
+    "createdAt": "2026-05-02T11:55:47.814Z",
+    "officerAssigned": "Sgt. Perera",
+    "riskScore": 0.2644145789538334,
+    "keywords": [
+      "vehicle",
+      "parked",
+      "illegally"
+    ],
+    "isHotspot": true
+  }
+]

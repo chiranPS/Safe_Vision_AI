@@ -57,3 +57,6 @@ build/
 
 # Specific trained model directory
 ai-service/app/models/layoutlm_police_ocr/
+
+# Exclude SafeVisionAI repository from main repo
+SafeVisionAI/
